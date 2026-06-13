@@ -7,6 +7,9 @@
     "team": "Nossa Equipe",
     "events": "Eventos"
   },
+  "newsCard": {
+    "readMore": "Leia mais →"
+  },
   "footer": {
     "description": "Uma comunidade de fé, esperança e caridade. Unidos em Cristo, servindo com amor.",
     "massTitle": "Horários de Missa",
@@ -16,7 +19,102 @@
     "contactTitle": "Contato",
     "copyright": "Paróquia Nossa Senhora do Bonsucesso. Todos os direitos reservados."
   },
-  "newsCard": {
-    "readMore": "Leia mais →"
+  "timeline": {
+    "1952": {
+      "title": "Fundação da Comunidade",
+      "description": "Um grupo de famílias católicas do bairro se reúne pela primeira vez para rezar o terço em casas particulares, semeando a fé que daria origem à nossa paróquia."
+    },
+    "1960": {
+      "title": "Construção da Primeira Capelinha",
+      "description": "Com o esforço coletivo da comunidade, é erguida a primeira capelinha dedicada a Nossa Senhora do Bonsucesso, um pequeno espaço que se tornaria o coração espiritual do bairro."
+    },
+    "1972": {
+      "title": "Elevação à Paróquia",
+      "description": "Pelo decreto do Arcebispo do Rio de Janeiro, a comunidade é oficialmente elevada à categoria de Paróquia, ganhando autonomia e um pároco residente."
+    },
+    "1985": {
+      "title": "Construção do Templo Atual",
+      "description": "Inicia-se a construção do atual templo paroquial, um projeto que contou com a generosidade de centenas de famílias e foi concluído em três anos de trabalho."
+    },
+    "1990": {
+      "title": "Bênção e Consagração do Templo",
+      "description": "O novo templo é solenemente benzido e consagrado em cerimônia presidida pelo Cardeal Arcebispo, reunindo centenas de fiéis em um dia histórico para a paróquia."
+    },
+    "2002": {
+      "title": "Jubileu de Ouro – 50 Anos",
+      "description": "A paróquia celebra com grande festa o seu jubileu de ouro, com uma semana de eventos, missas solenes e a inauguração do salão paroquial reformado."
+    },
+    "2015": {
+      "title": "Reforma e Restauração",
+      "description": "Ampla reforma do templo é realizada, com restauração de vitrais, renovação do piso e modernização das instalações, preservando a arquitetura original."
+    },
+    "2025": {
+      "title": "Hoje – Uma Comunidade Viva",
+      "description": "Com mais de 70 anos de história, a Paróquia Nossa Senhora do Bonsucesso continua sendo farol de fé, esperança e caridade para toda a comunidade, sempre renovando seu compromisso com o Evangelho."
+    }
+  },
+  "news": {
+    "festa-padroeira-2025": {
+      "title": "Festa da Padroeira Nossa Senhora do Bonsucesso",
+      "subtitle": "Três dias de celebração, fé e comunidade",
+      "category": "Evento",
+      "summary": "A Paróquia Nossa Senhora do Bonsucesso convida toda a comunidade para a grande Festa da Padroeira, com missas solenes, procissão iluminada e quermesse.",
+      "content": [
+        "A Paróquia Nossa Senhora do Bonsucesso tem a imensa alegria de convidar todos os fiéis e amigos para a celebração da Festa da Padroeira, que acontecerá nos dias 14, 15 e 16 de agosto de 2025.",
+        "A programação começa na sexta-feira (14) com a Missa de Abertura às 19h, presidida pelo nosso pároco, Padre Marcos Antônio. Na sábado, haverá Missa Campal às 18h seguida de Procissão Iluminada pelas ruas do bairro, com lanternas e cânticos à Nossa Senhora.",
+        "O domingo (16) reserva a Missa Solene Principal às 10h, com a participação do coral paroquial e convidados especiais. À tarde, a partir das 14h, será realizada a Quermesse com barracas de comidas típicas, jogos e muita alegria para as famílias.",
+        "Venha celebrar conosco a graça de Nossa Senhora do Bonsucesso, que há tantos anos intercede por nossa comunidade. Traga sua família, seus amigos e vizinhos. Todos são bem-vindos!"
+      ]
+    },
+    "catequese-2025-inscricoes": {
+      "title": "Inscrições Abertas para a Catequese 2025",
+      "subtitle": "Primeira Eucaristia e Crisma com vagas limitadas",
+      "category": "Catequese",
+      "summary": "Estão abertas as inscrições para a Catequese de Primeira Eucaristia e Crisma 2025. As aulas iniciam em março e as vagas são limitadas.",
+      "content": [
+        "A Secretaria Paroquial comunica que estão abertas as inscrições para os grupos de Catequese de Primeira Eucaristia e Crisma do ano de 2025. As inscrições podem ser feitas na secretaria da paróquia de segunda a sexta, das 9h às 12h e das 14h às 17h.",
+        "Para a Primeira Eucaristia, serão aceitas crianças a partir de 8 anos completos até 31 de dezembro de 2025. Para o Crisma, jovens a partir de 13 anos. Os grupos serão formados por faixa etária e as aulas ocorrerão aos sábados.",
+        "Os documentos necessários para inscrição são: certidão de batismo, RG ou certidão de nascimento do catequizando e documento de responsável.",
+        "As vagas são limitadas e serão preenchidas por ordem de inscrição. Para mais informações, entre em contato com a secretaria pelo telefone (21) 3333-0000 ou pelo WhatsApp da paróquia."
+      ]
+    },
+    "retiro-quaresma-2025": {
+      "title": "Retiro de Quaresma: Conversão e Renovação",
+      "subtitle": "Um fim de semana de oração e reflexão espiritual",
+      "category": "Retiro",
+      "summary": "A Paróquia promove o Retiro de Quaresma para jovens e adultos, com pregações, sacramentos e momentos de adoração ao Santíssimo.",
+      "content": [
+        "No próximo mês de março, a Paróquia Nossa Senhora do Bonsucesso realizará o tradicional Retiro de Quaresma, aberto a jovens a partir de 16 anos e adultos. O evento acontecerá na Casa de Retiros Nossa Senhora Auxiliadora, em Petrópolis, de sexta a domingo.",
+        "O tema deste ano será \"Voltai a mim de todo o coração\" (Joel 2,12), convidando os participantes a uma experiência profunda de conversão e renovação interior. A programação inclui pregações, momentos de adoração ao Santíssimo Sacramento, confissões e partilhas em grupo.",
+        "O retiro será conduzido pelo Padre Marcos Antônio com a participação de um pregador convidado. O valor da inscrição cobre hospedagem e alimentação para o fim de semana completo.",
+        "As inscrições devem ser feitas na secretaria paroquial. Para garantir sua vaga, é necessário realizar o pagamento de 50% do valor no ato da inscrição. Não perca esta oportunidade de aprofundar sua vida espiritual neste tempo sagrado da Quaresma."
+      ]
+    }
+  },
+  "team": {
+    "1": {
+      "role": "Pároco",
+      "bio": "Nascido em Belo Horizonte, MG, em 1972, o Padre Marcos Antônio Silva foi ordenado sacerdote em 1999 pela Diocese de Belo Horizonte. Possui graduação em Teologia pela PUC Minas e especialização em Pastoral Familiar pela Pontificia Universidade Salesiana, em Roma.\nAntes de assumir a paróquia, atuou como vigário em duas comunidades de sua diocese natal e como diretor espiritual do seminário diocesano por cinco anos. Chegou à Paróquia Nossa Senhora do Bonsucesso em 2018, onde desde então exerce com dedicação e alegria o ministério pastoral.\nÉ conhecido por sua homilia acolhedora, sua atenção especial aos jovens e às famílias em situação de vulnerabilidade. Coordena também a Pastoral da Sobriedade e é assessor da Renovação Carismática Católica na região."
+    },
+    "2": {
+      "role": "Padre Cooperador",
+      "bio": "Ordenado em 2010, o Padre João Batista atua na paróquia desde 2021. Graduado em Filosofia e Teologia, é responsável pela catequese e pela pastoral juvenil."
+    },
+    "3": {
+      "role": "Diácono Permanente",
+      "bio": "Ordenado diácono permanente em 2015, Roberto é casado e pai de três filhos. Coordena a Pastoral da Caridade e os ministérios de serviço da comunidade."
+    },
+    "4": {
+      "role": "Secretária Paroquial",
+      "bio": "Com mais de 15 anos dedicados à paróquia, Maria das Graças é o rosto acolhedor da secretaria. Cuida de toda a documentação e é a primeira referência para os fiéis."
+    },
+    "5": {
+      "role": "Coordenador de Pastoral",
+      "bio": "Leigo comprometido, Carlos coordena as pastorais e movimentos da paróquia. É formado em Pedagogia e atua voluntariamente há 10 anos na comunidade."
+    },
+    "6": {
+      "role": "Coordenadora de Liturgia",
+      "bio": "Responsável pela preparação das celebrações litúrgicas, Ana Paula coordena o coral, os ministros da Eucaristia e os leitores da paróquia há 8 anos."
+    }
   }
 }

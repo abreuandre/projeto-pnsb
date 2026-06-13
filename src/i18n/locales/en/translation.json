@@ -7,6 +7,9 @@
     "team": "Our Team",
     "events": "Events"
   },
+  "newsCard": {
+    "readMore": "Read more →"
+  },
   "footer": {
     "description": "A community of faith, hope, and charity. United in Christ, serving with love.",
     "massTitle": "Mass Schedule",
@@ -16,7 +19,102 @@
     "contactTitle": "Contact",
     "copyright": "Our Lady of Bonsucesso Parish. All rights reserved."
   },
-  "newsCard": {
-    "readMore": "Read more →"
+  "timeline": {
+    "1952": {
+      "title": "Foundation of the Community",
+      "description": "A group of Catholic families from the neighborhood gathered for the first time to pray the rosary in private homes, sowing the faith that would give rise to our parish."
+    },
+    "1960": {
+      "title": "Construction of the First Chapel",
+      "description": "Through the collective effort of the community, the first chapel dedicated to Our Lady of Bonsucesso was built — a small space that would become the spiritual heart of the neighborhood."
+    },
+    "1972": {
+      "title": "Elevation to Parish",
+      "description": "By decree of the Archbishop of Rio de Janeiro, the community was officially elevated to the status of Parish, gaining autonomy and a resident pastor."
+    },
+    "1985": {
+      "title": "Construction of the Current Church",
+      "description": "Construction of the current parish church began, a project supported by the generosity of hundreds of families and completed in three years of work."
+    },
+    "1990": {
+      "title": "Blessing and Consecration of the Church",
+      "description": "The new church was solemnly blessed and consecrated in a ceremony presided over by the Cardinal Archbishop, bringing together hundreds of faithful on a historic day for the parish."
+    },
+    "2002": {
+      "title": "Golden Jubilee – 50 Years",
+      "description": "The parish celebrated its golden jubilee with great festivity, featuring a week of events, solemn Masses, and the inauguration of the renovated parish hall."
+    },
+    "2015": {
+      "title": "Renovation and Restoration",
+      "description": "An extensive renovation of the church was carried out, including restoration of stained glass windows, floor renewal, and modernization of facilities, while preserving the original architecture."
+    },
+    "2025": {
+      "title": "Today – A Living Community",
+      "description": "With over 70 years of history, Our Lady of Bonsucesso Parish continues to be a beacon of faith, hope, and charity for the entire community, always renewing its commitment to the Gospel."
+    }
+  },
+  "news": {
+    "festa-padroeira-2025": {
+      "title": "Feast of the Patron Saint Our Lady of Bonsucesso",
+      "subtitle": "Three days of celebration, faith, and community",
+      "category": "Event",
+      "summary": "Our Lady of Bonsucesso Parish invites the entire community to the great Patron Saint Feast, with solemn Masses, a candlelit procession, and a parish fair.",
+      "content": [
+        "Our Lady of Bonsucesso Parish has the immense joy of inviting all the faithful and friends to the celebration of the Patron Saint Feast, which will take place on August 14, 15, and 16, 2025.",
+        "The program begins on Friday (14) with the Opening Mass at 7 PM, presided over by our pastor, Father Marcos Antônio. On Saturday, there will be an Outdoor Mass at 6 PM followed by an Illuminated Procession through the neighborhood streets, with lanterns and hymns to Our Lady.",
+        "Sunday (16) features the Main Solemn Mass at 10 AM, with the participation of the parish choir and special guests. In the afternoon, starting at 2 PM, the Parish Fair will take place with typical food stalls, games, and plenty of fun for families.",
+        "Come celebrate with us the grace of Our Lady of Bonsucesso, who has interceded for our community for so many years. Bring your family, friends, and neighbors. Everyone is welcome!"
+      ]
+    },
+    "catequese-2025-inscricoes": {
+      "title": "Registrations Open for Catechism 2025",
+      "subtitle": "First Communion and Confirmation — limited spots",
+      "category": "Catechism",
+      "summary": "Registrations are open for the First Communion and Confirmation Catechism 2025. Classes begin in March and spots are limited.",
+      "content": [
+        "The Parish Secretariat announces that registrations are open for the First Communion and Confirmation Catechism groups for 2025. Registration can be completed at the parish office Monday through Friday, from 9 AM to 12 PM and 2 PM to 5 PM.",
+        "For First Communion, children aged 8 and older as of December 31, 2025 will be accepted. For Confirmation, youth aged 13 and older. Groups will be organized by age, and classes will take place on Saturdays.",
+        "Required documents for registration: baptism certificate, ID or birth certificate of the catechumen, and a guardian's document.",
+        "Spots are limited and will be filled on a first-come, first-served basis. For more information, contact the secretariat by phone at (21) 3333-0000 or via the parish WhatsApp."
+      ]
+    },
+    "retiro-quaresma-2025": {
+      "title": "Lent Retreat: Conversion and Renewal",
+      "subtitle": "A weekend of prayer and spiritual reflection",
+      "category": "Retreat",
+      "summary": "The Parish is hosting a Lent Retreat for youth and adults, with preaching, sacraments, and moments of adoration before the Blessed Sacrament.",
+      "content": [
+        "Next March, Our Lady of Bonsucesso Parish will hold the traditional Lent Retreat, open to youth aged 16 and older and adults. The event will take place at the Nossa Senhora Auxiliadora Retreat House in Petrópolis, from Friday to Sunday.",
+        "This year's theme will be \"Return to me with all your heart\" (Joel 2:12), inviting participants to a deep experience of conversion and inner renewal. The program includes preaching, moments of adoration before the Blessed Sacrament, confessions, and group sharing.",
+        "The retreat will be led by Father Marcos Antônio with the participation of a guest preacher. The registration fee covers accommodation and meals for the full weekend.",
+        "Registrations must be made at the parish secretariat. To secure your spot, a 50% deposit is required at the time of registration. Don't miss this opportunity to deepen your spiritual life during this sacred season of Lent."
+      ]
+    }
+  },
+  "team": {
+    "1": {
+      "role": "Pastor",
+      "bio": "Born in Belo Horizonte, MG, in 1972, Father Marcos Antônio Silva was ordained a priest in 1999 by the Diocese of Belo Horizonte. He holds a degree in Theology from PUC Minas and a specialization in Family Pastoral Ministry from the Pontifical Salesian University in Rome.\nBefore taking on the parish, he served as a vicar in two communities in his home diocese and as spiritual director of the diocesan seminary for five years. He arrived at Our Lady of Bonsucesso Parish in 2018, where he has since carried out his pastoral ministry with dedication and joy.\nHe is known for his welcoming homilies and his special attention to youth and families in vulnerable situations. He also coordinates the Sobriety Pastoral Ministry and serves as advisor to the Catholic Charismatic Renewal in the region."
+    },
+    "2": {
+      "role": "Associate Pastor",
+      "bio": "Ordained in 2010, Father João Batista has been serving the parish since 2021. He holds degrees in Philosophy and Theology and is responsible for catechism and youth ministry."
+    },
+    "3": {
+      "role": "Permanent Deacon",
+      "bio": "Ordained as a permanent deacon in 2015, Roberto is married and the father of three children. He coordinates the Charity Pastoral Ministry and the community's service ministries."
+    },
+    "4": {
+      "role": "Parish Secretary",
+      "bio": "With over 15 years dedicated to the parish, Maria das Graças is the welcoming face of the secretariat. She manages all documentation and is the first point of contact for the faithful."
+    },
+    "5": {
+      "role": "Pastoral Coordinator",
+      "bio": "A committed layperson, Carlos coordinates the parish's pastoral ministries and movements. He holds a degree in Education and has been volunteering in the community for 10 years."
+    },
+    "6": {
+      "role": "Liturgy Coordinator",
+      "bio": "Responsible for preparing liturgical celebrations, Ana Paula has been coordinating the choir, Eucharistic ministers, and parish lectors for 8 years."
+    }
   }
 }
