@@ -1,0 +1,22 @@
+{
+  "ribbon": "Bem-vindo à Paróquia Nossa Senhora do Bonsucesso",
+  "nav": {
+    "home": "Início",
+    "history": "História",
+    "news": "Notícias",
+    "team": "Nossa Equipe",
+    "events": "Eventos"
+  },
+  "footer": {
+    "description": "Uma comunidade de fé, esperança e caridade. Unidos em Cristo, servindo com amor.",
+    "massTitle": "Horários de Missa",
+    "massWeekdays": "Segunda a Sexta: 7h",
+    "massSaturday": "Sábado: 8h e 18h",
+    "massSunday": "Domingo: 7h, 9h, 11h e 19h",
+    "contactTitle": "Contato",
+    "copyright": "Paróquia Nossa Senhora do Bonsucesso. Todos os direitos reservados."
+  },
+  "newsCard": {
+    "readMore": "Leia mais →"
+  }
+}

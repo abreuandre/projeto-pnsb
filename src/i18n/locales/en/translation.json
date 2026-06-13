@@ -1,0 +1,22 @@
+{
+  "ribbon": "Welcome to Our Lady of Bonsucesso Parish",
+  "nav": {
+    "home": "Home",
+    "history": "History",
+    "news": "News",
+    "team": "Our Team",
+    "events": "Events"
+  },
+  "footer": {
+    "description": "A community of faith, hope, and charity. United in Christ, serving with love.",
+    "massTitle": "Mass Schedule",
+    "massWeekdays": "Monday to Friday: 7 AM",
+    "massSaturday": "Saturday: 8 AM and 6 PM",
+    "massSunday": "Sunday: 7 AM, 9 AM, 11 AM and 7 PM",
+    "contactTitle": "Contact",
+    "copyright": "Our Lady of Bonsucesso Parish. All rights reserved."
+  },
+  "newsCard": {
+    "readMore": "Read more →"
+  }
+}
