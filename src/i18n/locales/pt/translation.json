@@ -116,5 +116,109 @@
       "role": "Coordenadora de Liturgia",
       "bio": "Responsável pela preparação das celebrações litúrgicas, Ana Paula coordena o coral, os ministros da Eucaristia e os leitores da paróquia há 8 anos."
     }
+  },
+  "teamPage": {
+    "hero": {
+      "kicker": "Quem somos",
+      "title": "Nossa Equipe"
+    },
+    "priestSection": {
+      "title": "Pároco",
+      "subtitle": "O sacerdote responsável pela nossa comunidade"
+    },
+    "collaboratorsSection": {
+      "title": "Colaboradores",
+      "subtitle": "As pessoas que fazem a paróquia acontecer"
+    },
+    "cta": {
+      "kicker": "Junte-se a nós",
+      "title": "Quer servir na paróquia?",
+      "description": "Nossa comunidade é movida por voluntários apaixonados pela fé. Se você sente o chamado a servir, entre em contato e descubra como colaborar.",
+      "button": "Entre em Contato"
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "kicker": "Fique informado",
+      "title": "Notícias e Eventos"
+    },
+    "categories": {
+      "all": "Todos",
+      "Evento": "Evento",
+      "Catequese": "Catequese",
+      "Retiro": "Retiro"
+    },
+    "allPublications": "Todas as Publicações",
+    "resultsCount_one": "{{count}} publicação encontrada",
+    "resultsCount_other": "{{count}} publicações encontradas",
+    "empty": "Nenhuma publicação nesta categoria."
+  },
+  "newsDetailPage": {
+    "back": "Voltar para Notícias",
+    "otherPublications": "Outras Publicações"
+  },
+  "historyPage": {
+    "hero": {
+      "kicker": "Nossa Trajetória",
+      "title": "História da Paróquia"
+    },
+    "intro": "A história da Paróquia Nossa Senhora do Bonsucesso é a história de uma comunidade que, movida pela fé e pelo amor, construiu ao longo de décadas um espaço sagrado de encontro com Deus e com o próximo.",
+    "gallery": {
+      "title": "Galeria Histórica",
+      "subtitle": "Imagens que contam a história de nossa comunidade",
+      "editHint": "Adicione suas fotos históricas editando o arquivo"
+    },
+    "noImage": "Insira uma imagem aqui"
+  },
+  "homePage": {
+    "hero": {
+      "titleLine1": "Paróquia Nossa Senhora",
+      "titleLine2": "do Bonsucesso",
+      "description": "Uma comunidade de fé viva, acolhendo a todos na graça de Deus. Venha celebrar, rezar e servir conosco. Todos são bem-vindos!",
+      "ctaHistory": "Conheça Nossa História",
+      "ctaEvents": "Próximos Eventos"
+    },
+    "massTimes": {
+      "title": "Horários de Missa",
+      "subtitle": "Venha celebrar a Eucaristia conosco",
+      "days": {
+        "weekdays": "Seg – Sex",
+        "saturday": "Sábado",
+        "sunday": "Domingo"
+      }
+    },
+    "welcome": {
+      "kicker": "Bem-vindos",
+      "title": "Uma casa aberta para todos",
+      "paragraph1": "A Paróquia Nossa Senhora do Bonsucesso é uma comunidade eclesial que, há mais de sete décadas, acolhe fiéis de todas as idades, origens e histórias de vida. Aqui, o Evangelho é vivido no cotidiano, na partilha e no serviço ao próximo.",
+      "paragraph2": "Seja você alguém que busca se aproximar da fé, retomar uma caminhada espiritual ou apenas encontrar uma comunidade acolhedora — nossa porta está sempre aberta. Como disse Jesus:",
+      "quote": "\"Vinde a mim.\"",
+      "cta": "Conheça Nossa Equipe"
+    },
+    "highlights": {
+      "faith": {
+        "title": "Fé e Tradição",
+        "desc": "Mais de 70 anos de história, celebrando os sacramentos e transmitindo a fé católica."
+      },
+      "community": {
+        "title": "Comunidade Ativa",
+        "desc": "Pastorais, grupos de oração e movimentos para todas as idades e vocações."
+      },
+      "dailyMass": {
+        "title": "Missas Diárias",
+        "desc": "Celebrações eucarísticas todos os dias para nutrir a vida espiritual da comunidade."
+      }
+    },
+    "news": {
+      "kicker": "Fique por dentro",
+      "title": "Últimas Notícias",
+      "viewAll": "Ver todas"
+    },
+    "cta": {
+      "quote": "\"Amai-vos uns aos outros\"",
+      "title": "Faça parte da nossa comunidade",
+      "description": "Descubra os grupos, movimentos e pastorais que transformam vidas e fortalecem a fé.",
+      "button": "Ver Próximos Eventos"
+    }
   }
 }

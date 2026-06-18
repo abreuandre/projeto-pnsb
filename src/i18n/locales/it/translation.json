@@ -116,5 +116,109 @@
       "role": "Coordinatrice della Liturgia",
       "bio": "Responsabile della preparazione delle celebrazioni liturgiche, Ana Paula coordina il coro, i ministri dell'Eucaristia e i lettori della parrocchia da 8 anni."
     }
+  },
+  "teamPage": {
+    "hero": {
+      "kicker": "Chi siamo",
+      "title": "Il Nostro Team"
+    },
+    "priestSection": {
+      "title": "Parroco",
+      "subtitle": "Il sacerdote responsabile della nostra comunità"
+    },
+    "collaboratorsSection": {
+      "title": "Collaboratori",
+      "subtitle": "Le persone che fanno vivere la parrocchia"
+    },
+    "cta": {
+      "kicker": "Unisciti a noi",
+      "title": "Vuoi servire nella parrocchia?",
+      "description": "La nostra comunità è guidata da volontari appassionati della fede. Se ti senti chiamato a servire, contattaci e scopri come collaborare.",
+      "button": "Contattaci"
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "kicker": "Resta informato",
+      "title": "Notizie ed Eventi"
+    },
+    "categories": {
+      "all": "Tutti",
+      "Evento": "Evento",
+      "Catequese": "Catechismo",
+      "Retiro": "Ritiro"
+    },
+    "allPublications": "Tutte le Pubblicazioni",
+    "resultsCount_one": "{{count}} pubblicazione trovata",
+    "resultsCount_other": "{{count}} pubblicazioni trovate",
+    "empty": "Nessuna pubblicazione in questa categoria."
+  },
+  "newsDetailPage": {
+    "back": "Torna alle Notizie",
+    "otherPublications": "Altre Pubblicazioni"
+  },
+  "historyPage": {
+    "hero": {
+      "kicker": "Il Nostro Percorso",
+      "title": "Storia della Parrocchia"
+    },
+    "intro": "La storia della Parrocchia Nostra Signora del Bonsucesso è la storia di una comunità che, mossa dalla fede e dall'amore, ha costruito nel corso dei decenni uno spazio sacro di incontro con Dio e con il prossimo.",
+    "gallery": {
+      "title": "Galleria Storica",
+      "subtitle": "Immagini che raccontano la storia della nostra comunità",
+      "editHint": "Aggiungi le tue foto storiche modificando il file"
+    },
+    "noImage": "Inserisci un'immagine qui"
+  },
+  "homePage": {
+    "hero": {
+      "titleLine1": "Parrocchia Nostra Signora",
+      "titleLine2": "del Bonsucesso",
+      "description": "Una comunità di fede viva, che accoglie tutti nella grazia di Dio. Venite a celebrare, pregare e servire con noi. Tutti sono benvenuti!",
+      "ctaHistory": "Scopri la Nostra Storia",
+      "ctaEvents": "Prossimi Eventi"
+    },
+    "massTimes": {
+      "title": "Orari delle Messe",
+      "subtitle": "Venite a celebrare l'Eucaristia con noi",
+      "days": {
+        "weekdays": "Lun – Ven",
+        "saturday": "Sabato",
+        "sunday": "Domenica"
+      }
+    },
+    "welcome": {
+      "kicker": "Benvenuti",
+      "title": "Una casa aperta a tutti",
+      "paragraph1": "La Parrocchia Nostra Signora del Bonsucesso è una comunità ecclesiale che, da oltre sette decenni, accoglie fedeli di ogni età, origine e storia di vita. Qui il Vangelo è vissuto quotidianamente, nella condivisione e nel servizio al prossimo.",
+      "paragraph2": "Che tu sia qualcuno che cerca di avvicinarsi alla fede, di riprendere un cammino spirituale o semplicemente di trovare una comunità accogliente — la nostra porta è sempre aperta. Come disse Gesù:",
+      "quote": "\"Venite a me.\"",
+      "cta": "Conosci il Nostro Team"
+    },
+    "highlights": {
+      "faith": {
+        "title": "Fede e Tradizione",
+        "desc": "Oltre 70 anni di storia, celebrando i sacramenti e trasmettendo la fede cattolica."
+      },
+      "community": {
+        "title": "Comunità Attiva",
+        "desc": "Pastorali, gruppi di preghiera e movimenti per tutte le età e vocazioni."
+      },
+      "dailyMass": {
+        "title": "Messe Quotidiane",
+        "desc": "Celebrazioni eucaristiche ogni giorno per nutrire la vita spirituale della comunità."
+      }
+    },
+    "news": {
+      "kicker": "Resta aggiornato",
+      "title": "Ultime Notizie",
+      "viewAll": "Vedi tutte"
+    },
+    "cta": {
+      "quote": "\"Amatevi gli uni gli altri\"",
+      "title": "Fai parte della nostra comunità",
+      "description": "Scopri i gruppi, i movimenti e le pastorali che trasformano la vita e rafforzano la fede.",
+      "button": "Vedi i Prossimi Eventi"
+    }
   }
 }

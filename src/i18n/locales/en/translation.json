@@ -116,5 +116,109 @@
       "role": "Liturgy Coordinator",
       "bio": "Responsible for preparing liturgical celebrations, Ana Paula has been coordinating the choir, Eucharistic ministers, and parish lectors for 8 years."
     }
+  },
+  "teamPage": {
+    "hero": {
+      "kicker": "Who we are",
+      "title": "Our Team"
+    },
+    "priestSection": {
+      "title": "Pastor",
+      "subtitle": "The priest responsible for our community"
+    },
+    "collaboratorsSection": {
+      "title": "Collaborators",
+      "subtitle": "The people who make the parish happen"
+    },
+    "cta": {
+      "kicker": "Join us",
+      "title": "Want to serve at the parish?",
+      "description": "Our community is driven by volunteers passionate about their faith. If you feel called to serve, get in touch and discover how to get involved.",
+      "button": "Get in Touch"
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "kicker": "Stay informed",
+      "title": "News and Events"
+    },
+    "categories": {
+      "all": "All",
+      "Evento": "Event",
+      "Catequese": "Catechism",
+      "Retiro": "Retreat"
+    },
+    "allPublications": "All Publications",
+    "resultsCount_one": "{{count}} publication found",
+    "resultsCount_other": "{{count}} publications found",
+    "empty": "No publications in this category."
+  },
+  "newsDetailPage": {
+    "back": "Back to News",
+    "otherPublications": "Other Publications"
+  },
+  "historyPage": {
+    "hero": {
+      "kicker": "Our Journey",
+      "title": "Parish History"
+    },
+    "intro": "The history of Our Lady of Bonsucesso Parish is the story of a community that, driven by faith and love, built a sacred space for encounter with God and neighbor over the course of decades.",
+    "gallery": {
+      "title": "Historical Gallery",
+      "subtitle": "Images that tell the story of our community",
+      "editHint": "Add your historical photos by editing the file"
+    },
+    "noImage": "Insert an image here"
+  },
+  "homePage": {
+    "hero": {
+      "titleLine1": "Our Lady",
+      "titleLine2": "of Bonsucesso Parish",
+      "description": "A living community of faith, welcoming everyone into God's grace. Come celebrate, pray, and serve with us. Everyone is welcome!",
+      "ctaHistory": "Discover Our History",
+      "ctaEvents": "Upcoming Events"
+    },
+    "massTimes": {
+      "title": "Mass Schedule",
+      "subtitle": "Come celebrate the Eucharist with us",
+      "days": {
+        "weekdays": "Mon – Fri",
+        "saturday": "Saturday",
+        "sunday": "Sunday"
+      }
+    },
+    "welcome": {
+      "kicker": "Welcome",
+      "title": "A house open to everyone",
+      "paragraph1": "Our Lady of Bonsucesso Parish is a church community that, for over seven decades, has welcomed the faithful of all ages, backgrounds, and life stories. Here, the Gospel is lived out daily, through sharing and service to one another.",
+      "paragraph2": "Whether you're someone seeking to grow closer to faith, restart a spiritual journey, or simply find a welcoming community — our door is always open. As Jesus said:",
+      "quote": "\"Come to me.\"",
+      "cta": "Meet Our Team"
+    },
+    "highlights": {
+      "faith": {
+        "title": "Faith and Tradition",
+        "desc": "Over 70 years of history, celebrating the sacraments and passing on the Catholic faith."
+      },
+      "community": {
+        "title": "Active Community",
+        "desc": "Pastoral ministries, prayer groups, and movements for all ages and vocations."
+      },
+      "dailyMass": {
+        "title": "Daily Masses",
+        "desc": "Eucharistic celebrations every day to nourish the community's spiritual life."
+      }
+    },
+    "news": {
+      "kicker": "Stay in the loop",
+      "title": "Latest News",
+      "viewAll": "View all"
+    },
+    "cta": {
+      "quote": "\"Love one another\"",
+      "title": "Become part of our community",
+      "description": "Discover the groups, movements, and pastoral ministries that transform lives and strengthen faith.",
+      "button": "See Upcoming Events"
+    }
   }
 }
