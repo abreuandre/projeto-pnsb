@@ -3,6 +3,79 @@ import { useState } from "react";
 import { Outlet, Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 
+function FlagBR({ size = 24 }: { size?: number }) {
+  return (
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 36 36"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <circle cx="18" cy="18" r="18" fill="#009b3a" />
+      <polygon points="18,6 32,18 18,30 4,18" fill="#fedf00" />
+      <circle cx="18" cy="18" r="6.5" fill="#002776" />
+      <path
+        d="M12 16.5 a8 8 0 0 1 12 0"
+        stroke="#fff"
+        strokeWidth="0.8"
+        fill="none"
+      />
+    </svg>
+  );
+}
+
+function FlagGB({ size = 24 }: { size?: number }) {
+  return (
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 36 36"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <defs>
+        <clipPath id="gbClip">
+          <circle cx="18" cy="18" r="18" />
+        </clipPath>
+      </defs>
+      <g clipPath="url(#gbClip)">
+        <rect width="36" height="36" fill="#012169" />
+        <path d="M0 0 L36 36 M36 0 L0 36" stroke="#fff" strokeWidth="5" />
+        <path d="M0 0 L36 36 M36 0 L0 36" stroke="#C8102E" strokeWidth="2.2" />
+        <path d="M18 0 V36 M0 18 H36" stroke="#fff" strokeWidth="8" />
+        <path d="M18 0 V36 M0 18 H36" stroke="#C8102E" strokeWidth="4.5" />
+      </g>
+    </svg>
+  );
+}
+
+function FlagIT({ size = 24 }: { size?: number }) {
+  return (
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 36 36"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <defs>
+        <clipPath id="itClip">
+          <circle cx="18" cy="18" r="18" />
+        </clipPath>
+      </defs>
+      <g clipPath="url(#itClip)">
+        <rect width="12" height="36" fill="#009246" />
+        <rect x="12" width="12" height="36" fill="#fff" />
+        <rect x="24" width="12" height="36" fill="#ce2b37" />
+      </g>
+    </svg>
+  );
+}
+
+const languages = [
+  { code: "pt", Flag: FlagBR, label: "Português" },
+  { code: "en", Flag: FlagGB, label: "English" },
+  { code: "it", Flag: FlagIT, label: "Italiano" },
+];
+
 export default function Layout() {
   const [menuOpen, setMenuOpen] = useState(false);
   const { pathname } = useLocation();
@@ -76,18 +149,20 @@ export default function Layout() {
             </Link>
 
             {/* Language switcher */}
-            <div className="flex items-center gap-1 text-xs font-body">
-              {["pt", "en", "it"].map((lang) => (
+            <div className="flex items-center gap-2">
+              {languages.map((lang) => (
                 <button
-                  key={lang}
-                  onClick={() => i18n.changeLanguage(lang)}
-                  className={`px-2 py-1 rounded uppercase tracking-wide transition-colors duration-200 ${
-                    i18n.language === lang
-                      ? "text-parish-blue font-bold"
-                      : "text-gray-400 hover:text-parish-blue"
+                  key={lang.code}
+                  onClick={() => i18n.changeLanguage(lang.code)}
+                  title={lang.label}
+                  aria-label={lang.label}
+                  className={`rounded-full overflow-hidden transition-all duration-200 ${
+                    i18n.language === lang.code
+                      ? "ring-2 ring-parish-blue scale-110"
+                      : "opacity-50 hover:opacity-100"
                   }`}
                 >
-                  {lang}
+                  <lang.Flag size={24} />
                 </button>
               ))}
             </div>
@@ -117,21 +192,23 @@ export default function Layout() {
               </Link>
             ))}
             {/* Language switcher mobile */}
-            <div className="flex items-center gap-2 pt-3 text-xs font-body">
-              {["pt", "en", "it"].map((lang) => (
+            <div className="flex items-center gap-3 pt-3">
+              {languages.map((lang) => (
                 <button
-                  key={lang}
+                  key={lang.code}
                   onClick={() => {
-                    i18n.changeLanguage(lang);
+                    i18n.changeLanguage(lang.code);
                     setMenuOpen(false);
                   }}
-                  className={`px-2 py-1 rounded uppercase tracking-wide transition-colors duration-200 ${
-                    i18n.language === lang
-                      ? "text-parish-blue font-bold"
-                      : "text-gray-400 hover:text-parish-blue"
+                  title={lang.label}
+                  aria-label={lang.label}
+                  className={`rounded-full overflow-hidden transition-all duration-200 ${
+                    i18n.language === lang.code
+                      ? "ring-2 ring-parish-blue scale-110"
+                      : "opacity-50 hover:opacity-100"
                   }`}
                 >
-                  {lang}
+                  <lang.Flag size={28} />
                 </button>
               ))}
             </div>

@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "flag-icons": "^7.5.0",
     "i18next": "^26.3.1",
     "i18next-browser-languagedetector": "^8.2.1",
     "lucide-react": "^0.383.0",
