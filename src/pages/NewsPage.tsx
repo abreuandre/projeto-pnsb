@@ -18,9 +18,9 @@ export default function NewsPage() {
     subtitle: t(`news.${item.slug}.subtitle`),
     category: t(`news.${item.slug}.category`),
     summary: t(`news.${item.slug}.summary`),
-    content: t(`news.${item.slug}.content`, {
+    content: t<string[]>(`news.${item.slug}.content`, {
       returnObjects: true,
-    }) as string[],
+    }),
   }));
 
   const filtered =

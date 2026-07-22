@@ -13,9 +13,11 @@
   "footer": {
     "description": "Uma comunidade de fé, esperança e caridade. Unidos em Cristo, servindo com amor.",
     "massTitle": "Horários de Missa",
-    "massWeekdays": "Segunda a Sexta: 7h",
-    "massSaturday": "Sábado: 8h e 18h",
-    "massSunday": "Domingo: 7h, 9h, 11h e 19h",
+    "massMonday": "Segunda-Feira: 19h",
+    "massWednesday": "Quarta-Feira: 19h",
+    "massThursday": "Quinta-Feira: 19h",
+    "massFriday": "Sexta-Feira: 19h",
+    "massSunday": "Domingo: 08h, 09h30, 11h e 18h",
     "contactTitle": "Contato",
     "copyright": "Paróquia Nossa Senhora do Bonsucesso. Todos os direitos reservados."
   },
@@ -182,7 +184,12 @@
       "title": "Horários de Missa",
       "subtitle": "Venha celebrar a Eucaristia conosco",
       "days": {
-        "weekdays": "Seg – Sex",
+        "weekdays": [
+          "Segunda-Feira",
+          "Quarta-Feira",
+          "Quinta-Feira",
+          "Sexta-Feira"
+        ],
         "saturday": "Sábado",
         "sunday": "Domingo"
       }

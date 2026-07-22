@@ -7,9 +7,9 @@ import { newsData } from "../data/news";
 import { NewsItem } from "../types";
 
 const massTimesData = [
-  { key: "weekdays", times: ["07h00"] },
-  { key: "saturday", times: ["08h00", "18h00"] },
-  { key: "sunday", times: ["07h00", "09h00", "11h00", "19h00"] },
+  { key: "weekdays", times: ["19h00"] },
+  //{ key: "saturday", times: ["19h00"] },
+  { key: "sunday", times: ["08h00", "09h30", "11h00", "18h00"] },
 ];
 
 const highlightsData = [
@@ -120,22 +120,46 @@ export default function HomePage() {
             subtitle={t("homePage.massTimes.subtitle")}
             light
           />
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
-            {massTimesData.map((m) => (
-              <div
-                key={m.key}
-                className="border border-white/20 bg-white/10 backdrop-blur p-6 text-center rounded-xl hover:bg-white/20 transition-colors"
-              >
-                <p className="font-serif text-pink-200 text-xl mb-3">
-                  {t(`homePage.massTimes.days.${m.key}`)}
-                </p>
-                {m.times.map((time) => (
-                  <p key={time} className="font-body text-white text-lg">
-                    {time}
-                  </p>
-                ))}
-              </div>
-            ))}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+            {massTimesData.map((m) => {
+              const label = t<string | string[]>(
+                `homePage.massTimes.days.${m.key}`,
+                {
+                  returnObjects: true,
+                },
+              );
+              const isWeekdays = Array.isArray(label);
+
+              return (
+                <div
+                  key={m.key}
+                  className="border border-white/20 bg-white/10 backdrop-blur p-6 text-center rounded-xl hover:bg-white/20 transition-colors"
+                >
+                  {isWeekdays ? (
+                    label.map((day) => (
+                      <p
+                        key={day}
+                        className="font-body text-white text-lg mb-1"
+                      >
+                        <span className="font-serif text-pink-200">{day}:</span>{" "}
+                        {m.times[0]}
+                      </p>
+                    ))
+                  ) : (
+                    <>
+                      <p className="font-serif text-pink-200 text-xl mb-3">
+                        {label}
+                      </p>
+                      {m.times.map((time) => (
+                        <p key={time} className="font-body text-white text-lg">
+                          {time}
+                        </p>
+                      ))}
+                    </>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>

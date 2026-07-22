@@ -246,8 +246,10 @@ export default function Layout() {
               {t("footer.massTitle")}
             </h4>
             <ul className="text-sm space-y-1 text-blue-100">
-              <li>{t("footer.massWeekdays")}</li>
-              <li>{t("footer.massSaturday")}</li>
+              <li>{t("footer.massMonday")}</li>
+              <li>{t("footer.massWednesday")}</li>
+              <li>{t("footer.massThursday")}</li>
+              <li>{t("footer.massFriday")}</li>
               <li>{t("footer.massSunday")}</li>
             </ul>
           </div>
@@ -259,10 +261,10 @@ export default function Layout() {
               {t("footer.contactTitle")}
             </h4>
             <ul className="text-sm space-y-1 text-blue-100">
-              <li>Rua Nossa Senhora do Bonsucesso, 100</li>
+              <li>Rua General Galieni, 122 - Bonsucesso</li>
               <li>Rio de Janeiro – RJ</li>
-              <li>(21) 3333-0000</li>
-              <li>paroquia@bonsucesso.org.br</li>
+              <li>(21) 97913-9004</li>
+              <li>bonsucesso@arqrio.org.br</li>
             </ul>
           </div>
         </div>
