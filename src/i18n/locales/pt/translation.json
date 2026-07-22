@@ -22,9 +22,9 @@
     "copyright": "Paróquia Nossa Senhora do Bonsucesso. Todos os direitos reservados."
   },
   "timeline": {
-    "1952": {
-      "title": "Fundação da Comunidade",
-      "description": "Um grupo de famílias católicas do bairro se reúne pela primeira vez para rezar o terço em casas particulares, semeando a fé que daria origem à nossa paróquia."
+    "1920": {
+      "title": "O Berço da Paróquia",
+      "description": "O local da Igreja, antes de sua construção, era pantanoso e as águas escorriam para o Rio Timbó. Foi feito um loteamento pela Campanha Indústria e Melhoramentos do Brasil, na pessoa de Paulo de Frontin, em 1929. Contudo, o terreno foi adquirido pela Arquidiocese do Rio de Janeiro, pois já havia sido decretada na região a criação da Matriz da Paróquia de Nossa Senhora do Bonsucesso, no dia 29 de junho de 1920. A Pedra Fundamental foi lançada pelo Bispo D. Joaquim Mamede da Silva Leite."
     },
     "1960": {
       "title": "Construção da Primeira Capelinha",
@@ -100,19 +100,19 @@
     },
     "2": {
       "role": "Padre Cooperador",
-      "bio": "Ordenado em 2010, o Padre João Batista atua na paróquia desde 2021. Graduado em Filosofia e Teologia, é responsável pela catequese e pela pastoral juvenil."
+      "bio": ""
     },
     "3": {
       "role": "Diácono Permanente",
-      "bio": "Ordenado diácono permanente em 2015, Roberto é casado e pai de três filhos. Coordena a Pastoral da Caridade e os ministérios de serviço da comunidade."
+      "bio": ""
     },
     "4": {
       "role": "Secretária Paroquial",
-      "bio": "Com mais de 15 anos dedicados à paróquia, Maria das Graças é o rosto acolhedor da secretaria. Cuida de toda a documentação e é a primeira referência para os fiéis."
+      "bio": ""
     },
     "5": {
-      "role": "Coordenador de Pastoral",
-      "bio": "Leigo comprometido, Carlos coordena as pastorais e movimentos da paróquia. É formado em Pedagogia e atua voluntariamente há 10 anos na comunidade."
+      "role": "Pascom",
+      "bio": ""
     },
     "6": {
       "role": "Coordenadora de Liturgia",
@@ -164,7 +164,7 @@
       "kicker": "Nossa Trajetória",
       "title": "História da Paróquia"
     },
-    "intro": "A história da Paróquia Nossa Senhora do Bonsucesso é a história de uma comunidade que, movida pela fé e pelo amor, construiu ao longo de décadas um espaço sagrado de encontro com Deus e com o próximo.",
+    "intro": "Uma das mais lindas Igrejas da zona da Leopoldina, erigida na Rua General Galiene, no subúrbio de Bonsucesso. A Igreja Matriz da Paróquia de Nossa Senhora do Bonsucesso é construída em belo estilo, que mistura o antigo com o novo, através de traços góticos permeados pela estrutura moderna.  A Igreja tem fachada singular, formada por frontal constituído por uma série de colunas justapostas e decoradas em alturas crescentes.",
     "gallery": {
       "title": "Galeria Histórica",
       "subtitle": "Imagens que contam a história de nossa comunidade",

@@ -3,9 +3,9 @@ import { TimelineEvent } from "../types";
 // Apenas os dados que NÃO mudam com o idioma ficam aqui
 export const timelineData: Pick<TimelineEvent, "year" | "imageUrl">[] = [
   {
-    year: "1952",
+    year: "1920",
     imageUrl:
-      "https://images.unsplash.com/photo-1548625149-720754874919?w=600&q=80",
+      "/berco_paroquia.jpeg",
   },
   {
     year: "1960",

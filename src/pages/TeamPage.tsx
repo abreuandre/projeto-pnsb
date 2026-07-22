@@ -126,18 +126,6 @@ export default function TeamPage() {
                 className="bg-white border border-blue-100 hover:border-parish-blue transition-all duration-300 hover:shadow-md p-5 flex gap-4 items-start rounded-xl"
               >
                 <div className="relative flex-shrink-0">
-                  <img
-                    src={member.imageUrl}
-                    alt={member.name}
-                    className="w-16 h-16 object-cover rounded-full border-2"
-                    style={{ borderColor: "#3AA3FF" }}
-                  />
-                  <div
-                    className="absolute -bottom-1 -right-1 w-4 h-4 rounded-full border-2 border-white"
-                    style={{
-                      background: "linear-gradient(135deg, #3AA3FF, #FFB7E2)",
-                    }}
-                  />
                 </div>
                 <div>
                   <p className="font-serif text-parish-blueDeep text-base leading-tight">

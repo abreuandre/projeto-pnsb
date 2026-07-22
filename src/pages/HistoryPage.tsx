@@ -1,6 +1,8 @@
+import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import SectionHeader from "../components/SectionHeader";
 import { timelineData } from "../data/history";
+import { ImageModal } from "../components/ImageModal";
 
 export default function HistoryPage() {
   const { t } = useTranslation();
@@ -143,6 +145,7 @@ export default function HistoryPage() {
 
 function EventCard({ event }: { event: (typeof timelineData)[0] }) {
   const { t } = useTranslation();
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const title = t(`timeline.${event.year}.title`);
   const description = t(`timeline.${event.year}.description`);
 
@@ -153,11 +156,21 @@ function EventCard({ event }: { event: (typeof timelineData)[0] }) {
         {description}
       </p>
       {event.imageUrl ? (
-        <img
+        <>
+          <img
           src={event.imageUrl}
           alt={title}
-          className="w-full h-36 object-cover rounded-lg"
+          className="w-full h-36 object-cover rounded-lg cursor-pointer hover:opacity-90 transition-opacity"
+          onClick={() => setIsModalOpen(true)}
         />
+        {isModalOpen && (
+            <ImageModal
+              imageUrl={event.imageUrl}
+              alt={title}
+              onClose={() => setIsModalOpen(false)}
+            />
+          )}
+        </>      
       ) : (
         <div
           className="w-full h-36 rounded-lg border-2 border-dashed border-blue-100 flex items-center justify-center"
