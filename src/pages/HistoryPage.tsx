@@ -92,7 +92,7 @@ export default function HistoryPage() {
                     </span>
                   </div>
                   <div
-                    className={`md:w-1/2 ${!isLeft ? "md:pl-12" : "md:pr-12 md:order-last"}`}
+                    className={`md:w-1/2 ${isLeft ? "md:pr-12 md:text-right" : "md:pl-12 md:order-last"}`}
                   >
                     {!isLeft ? (
                       <EventCard event={event} />

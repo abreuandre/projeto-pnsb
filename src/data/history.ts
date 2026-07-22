@@ -8,8 +8,8 @@ export const timelineData: Pick<TimelineEvent, "year" | "imageUrl">[] = [
       "/berco_paroquia.jpeg",
   },
   {
-    year: "1960",
-    imageUrl: "",
+    year: "1929",
+    imageUrl: "/construcao_paroquia.jpeg",
   },
   {
     year: "1972",
