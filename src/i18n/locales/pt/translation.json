@@ -91,6 +91,30 @@
         "O retiro será conduzido pelo Padre Marcos Antônio com a participação de um pregador convidado. O valor da inscrição cobre hospedagem e alimentação para o fim de semana completo.",
         "As inscrições devem ser feitas na secretaria paroquial. Para garantir sua vaga, é necessário realizar o pagamento de 50% do valor no ato da inscrição. Não perca esta oportunidade de aprofundar sua vida espiritual neste tempo sagrado da Quaresma."
       ]
+    },
+    "circulo-biblico": {
+      "title": "Círculo Bíblico",
+      "subtitle": "Venha se aprofundar na Sagrada Escritura",
+      "category": "Círculos",
+      "summary": "Venha se aprofundar na Sagrada Escritura",
+      "content": [
+        "Texto1.",
+        "Texto2.",
+        "Texto3.",
+        "Texto4."
+      ]
+    },
+    "confissao": {
+      "title": "Confissões",
+      "subtitle": "Atendimento de confissões",
+      "category": "Confissões",
+      "summary": "Atendimento de confissões",
+      "content": [
+        "Texto1.",
+        "Texto2.",
+        "Texto3.",
+        "Texto4."
+      ]
     }
   },
   "team": {
@@ -148,7 +172,8 @@
       "all": "Todos",
       "Evento": "Evento",
       "Catequese": "Catequese",
-      "Retiro": "Retiro"
+      "Retiro": "Retiro",
+      "Circulo": "Círculos"
     },
     "allPublications": "Todas as Publicações",
     "resultsCount_one": "{{count}} publicação encontrada",

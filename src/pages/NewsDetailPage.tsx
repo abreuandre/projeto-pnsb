@@ -97,10 +97,12 @@ export default function NewsDetailPage() {
       <article className="py-16 px-4 bg-parish-white">
         <div className="max-w-2xl mx-auto">
           <div className="flex flex-wrap items-center gap-4 mb-8 text-sm text-gray-400 font-body border-b border-blue-50 pb-6">
-            <span className="flex items-center gap-1">
-              <Calendar size={14} />
-              {formatDate(item.date, locale)}
-            </span>
+            {item.date && (
+              <span className="flex items-center gap-1">
+                <Calendar size={14} />
+                {formatDate(item.date, locale)}
+              </span>
+            )}
             <span className="flex items-center gap-1">
               <Tag size={14} />
               {item.category}

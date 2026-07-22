@@ -50,10 +50,12 @@ export default function NewsCard({ item }: NewsCardProps) {
             <Tag size={10} className="inline mr-1" />
             {item.category}
           </span>
-          <span className="text-gray-400 text-xs flex items-center gap-1">
-            <Calendar size={12} />
-            {formatDate(item.date, locale)}
-          </span>
+          {item.date && (
+            <span className="text-gray-400 text-xs flex items-center gap-1">
+              <Calendar size={12} />
+              {formatDate(item.date, locale)}
+            </span>
+          )}
         </div>
         <h3 className="font-serif text-parish-blueDeep text-lg leading-snug mb-2 group-hover:text-parish-blue transition-colors">
           {item.title}
