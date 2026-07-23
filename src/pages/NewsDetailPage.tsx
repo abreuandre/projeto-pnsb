@@ -33,9 +33,9 @@ export default function NewsDetailPage() {
     subtitle: t(`news.${rawItem.slug}.subtitle`),
     category: t(`news.${rawItem.slug}.category`),
     summary: t(`news.${rawItem.slug}.summary`),
-    content: t<string[]>(`news.${rawItem.slug}.content`, {
+    content: t(`news.${rawItem.slug}.content`, {
       returnObjects: true,
-    }),
+    }) as string[],
   };
 
   const related = newsData
@@ -47,7 +47,7 @@ export default function NewsDetailPage() {
       subtitle: t(`news.${n.slug}.subtitle`),
       category: t(`news.${n.slug}.category`),
       summary: t(`news.${n.slug}.summary`),
-      content: t<string[]>(`news.${n.slug}.content`, { returnObjects: true }),
+      content: t(`news.${n.slug}.content`, { returnObjects: true }) as string[],
     }));
 
   const locale = localeMap[i18n.language] ?? "pt-BR";

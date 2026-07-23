@@ -1,8 +1,9 @@
-import { useState } from "react";
+//import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import SectionHeader from "../components/SectionHeader";
 import { timelineData } from "../data/history";
-import { ImageModal } from "../components/ImageModal";
+//import { ImageModal } from "../components/ImageModal";
+import { ClickableImage } from "../components/ClickableImage";
 
 export default function HistoryPage() {
   const { t } = useTranslation();
@@ -118,13 +119,13 @@ export default function HistoryPage() {
             subtitle={t("historyPage.gallery.subtitle")}
           />
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {["/img1.avif", "/img2.avif", "/img1.avif", "/img2.avif"].map(
+            {["/ubiratan.jpeg", "/monsenhor-aramis.jpeg", "/img1.avif", "/img2.avif"].map(
               (src, i) => (
                 <div
                   key={i}
                   className="overflow-hidden aspect-square rounded-xl group cursor-pointer shadow-sm hover:shadow-md transition-shadow"
                 >
-                  <img
+                  <ClickableImage
                     src={src}
                     alt={`Foto ${i + 1}`}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
@@ -145,7 +146,6 @@ export default function HistoryPage() {
 
 function EventCard({ event }: { event: (typeof timelineData)[0] }) {
   const { t } = useTranslation();
-  const [isModalOpen, setIsModalOpen] = useState(false);
   const title = t(`timeline.${event.year}.title`);
   const description = t(`timeline.${event.year}.description`);
 
@@ -156,21 +156,11 @@ function EventCard({ event }: { event: (typeof timelineData)[0] }) {
         {description}
       </p>
       {event.imageUrl ? (
-        <>
-          <img
+          <ClickableImage
           src={event.imageUrl}
           alt={title}
           className="w-full h-36 object-cover rounded-lg cursor-pointer hover:opacity-90 transition-opacity"
-          onClick={() => setIsModalOpen(true)}
         />
-        {isModalOpen && (
-            <ImageModal
-              imageUrl={event.imageUrl}
-              alt={title}
-              onClose={() => setIsModalOpen(false)}
-            />
-          )}
-        </>      
       ) : (
         <div
           className="w-full h-36 rounded-lg border-2 border-dashed border-blue-100 flex items-center justify-center"
