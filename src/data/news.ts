@@ -55,6 +55,14 @@ export const newsData: Pick<
   },
   {
     id: 7,
+    slug: "grupo-oracao",
+    date: "",
+    imageUrl:
+      "/grupo-de-oracao.jpeg",
+    tags: ["Oração", "GrupoDeOração", "FéCatólica", "VidaCristã"],
+  }
+  /*{
+    id: 8,
     slug: "festa-padroeira-2025",
     date: "",
     imageUrl:
@@ -62,7 +70,7 @@ export const newsData: Pick<
     tags: ["Festa", "Padroeira", "Quermesse", "Procissão"],
   },
   {
-    id: 8,
+    id: 9,
     slug: "catequese-2025-inscricoes",
     date: "",
     imageUrl:
@@ -70,11 +78,11 @@ export const newsData: Pick<
     tags: ["Catequese", "Primeira Eucaristia", "Crisma", "Inscrições"],
   },
   {
-    id: 9,
+    id: 10,
     slug: "retiro-quaresma-2025",
     date: "",
     imageUrl:
       "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
     tags: ["Quaresma", "Retiro", "Espiritualidade", "Jovens"],
-  }
+  }*/
 ];
