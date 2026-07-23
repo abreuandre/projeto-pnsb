@@ -109,20 +109,72 @@
         "Por meio da leitura orante da Bíblia, da reflexão em comunidade e da partilha das experiências de vida, os participantes são convidados a compreender melhor a mensagem de Cristo, permitindo que a Palavra ilumine o cotidiano, fortaleça a comunhão fraterna e inspire o compromisso com a missão da Igreja.",
         "Mais do que um estudo bíblico, o Círculo Bíblico constitui um espaço de formação espiritual, crescimento pessoal e vivência comunitária, onde cada encontro favorece o diálogo, a escuta e o fortalecimento da fé, sempre em sintonia com os ensinamentos da Igreja Católica.",
         "Os encontros acontecem quinzenalmente, às terças-feiras, às 19h30, no Salão Paroquial da Paróquia Nossa Senhora do Bonsucesso. Toda a comunidade é convidada a participar, independentemente do nível de conhecimento bíblico, pois este é um espaço aberto para acolher todos aqueles que desejam crescer na intimidade com Deus por meio de Sua Palavra.",
-        "Tua palavra é lâmpada para os meus pés e luz para o meu caminho. (Sl 119,105)"
+        "\"Tua palavra é lâmpada para os meus pés e luz para o meu caminho. (Sl 119,105)\""
       ]
     },
     "confissao": {
       "title": "Confissões",
       "subtitle": "Atendimento de confissões",
       "category": "Confissões",
-      "summary": "Atendimento de confissões",
+      "summary": "Atendimento de confissões mediante agendamento",
       "content": [
         "O Sacramento da Penitência e da Reconciliação, também conhecido como Confissão, é um precioso dom da misericórdia de Deus, por meio do qual os fiéis são convidados a experimentar o perdão dos pecados, restaurar a comunhão com o Senhor e fortalecer sua caminhada de fé.",
         "Na Confissão, o cristão encontra um espaço de acolhimento, conversão e renovação espiritual, recebendo, pela ação do sacerdote, a absolvição sacramental e a graça necessária para perseverar na vida cristã. Este sacramento constitui um caminho privilegiado para a reconciliação com Deus, com a Igreja e consigo mesmo.",
         "Na Paróquia Nossa Senhora do Bonsucesso, o atendimento para Confissões é realizado mediante agendamento prévio, a fim de proporcionar um momento de escuta, oração e celebração do sacramento com a devida atenção pastoral.",
         "Para realizar o agendamento ou obter mais informações, entre em contato pelo telefone / WhatsApp (21) 97913-9004. A secretaria paroquial terá a alegria em orientá-lo sobre os horários disponíveis e demais esclarecimentos necessários.",
-        "Se confessarmos os nossos pecados, Deus é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça. (1Jo 1,9)"
+        "\"Se confessarmos os nossos pecados, Deus é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça. (1Jo 1,9)\""
+      ]
+    },
+    "terco-homens": {
+      "title": "Terço dos Homens",
+      "subtitle": "Quarta-Feira após a Missa",
+      "category": "Oração",
+      "summary": "Quarta-Feira após a Missa",
+      "content": [
+        "O Terço dos Homens é um importante movimento de espiritualidade mariana que reúne homens de todas as idades para, unidos em oração, fortalecer a fé, aprofundar a devoção à Virgem Maria e renovar o compromisso com o seguimento de Jesus Cristo.",
+        "Por meio da meditação dos mistérios do Santo Rosário, os participantes são convidados a contemplar a vida de Cristo sob o olhar materno de Nossa Senhora, encontrando na oração um caminho de conversão, perseverança e crescimento espiritual. O movimento também incentiva a vivência dos valores cristãos no ambiente familiar, profissional e comunitário, formando homens comprometidos com a missão evangelizadora da Igreja.",
+        "Além de promover a espiritualidade pessoal, o Terço dos Homens fortalece os laços de fraternidade entre seus participantes, tornando-se um espaço de acolhimento, partilha e testemunho de fé, onde cada homem é chamado a viver sua vocação cristã com responsabilidade, amor e serviço.",
+        "Os encontros acontecem todas as quartas-feiras, após a Santa Missa das 19h, na Paróquia Nossa Senhora do Bonsucesso. Todos os homens são cordialmente convidados a participar deste momento de oração e devoção, confiando suas intenções à intercessão da Santíssima Virgem Maria e colocando suas vidas nas mãos de Deus.",
+        "\"Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém.\""
+      ]
+    },
+    "adoracao": {
+      "title": "Adoração",
+      "subtitle": "Quinta-Feira da Adoração",
+      "category": "Oração",
+      "summary": "Quinta-Feira da Adoração",
+      "content": [
+        "A Quinta-feira de Adoração é um momento privilegiado de encontro pessoal e comunitário com Jesus Cristo presente na Santíssima Eucaristia. Diante do Santíssimo Sacramento, os fiéis são convidados a viver uma experiência profunda de oração, silêncio e contemplação, reconhecendo na presença real de Cristo a fonte de toda graça, esperança e fortalecimento espiritual.",
+        "Durante este tempo de adoração, a comunidade é chamada a render graças a Deus, apresentar suas intenções, renovar sua fé e confiar ao Senhor as alegrias, desafios e necessidades da vida cotidiana. É um convite à intimidade com Cristo, que permanece entre nós e nos fortalece para vivermos o Evangelho com fidelidade e amor.",
+        "A Adoração ao Santíssimo Sacramento constitui uma das mais belas expressões da espiritualidade católica, conduzindo os fiéis a um maior amor pela Eucaristia e despertando o desejo de uma vida marcada pela conversão, pela caridade e pela comunhão com Deus e com os irmãos.",
+        "Os encontros de Quinta-feira de Adoração acontecem todas as quintas-feiras, às 18h, na Paróquia Nossa Senhora do Bonsucesso. Toda a comunidade é cordialmente convidada a participar deste momento de recolhimento e oração, colocando-se na presença do Senhor para adorá-Lo, escutá-Lo e renovar as forças para a caminhada cristã.",
+        "\"Permanecei em mim, e eu permanecerei em vós.\"(Jo 15,4)"
+      ]
+    },
+    "dizimista": {
+      "title": "Dia do Dizimista",
+      "subtitle": "Segundo domingo do mês",
+      "category": "Dízimo",
+      "summary": "Dízimo é partilha! Sua generosidade ajuda nossa paróqua a cobrir os cusos e continuar sua missão evangelizadora!",
+      "content": [
+        "O Dia do Dizimista é uma ocasião especial em que a Paróquia Nossa Senhora do Bonsucesso manifesta sua gratidão a todos os fiéis que, com espírito de fé, generosidade e corresponsabilidade, colaboram com a missão evangelizadora da Igreja por meio da devolução do dízimo.",
+        "Mais do que uma contribuição material, o dízimo é um gesto de reconhecimento de que todos os bens provêm de Deus. Ao devolver uma parte daquilo que recebeu, o dizimista expressa sua confiança na Providência Divina e participa ativamente da manutenção da comunidade paroquial, do cuidado com a Casa de Deus e das diversas ações pastorais, sociais e missionárias desenvolvidas pela Igreja.",
+        "Neste dia, a comunidade é convidada a rezar de modo especial por todos os dizimistas e suas famílias, agradecendo pela dedicação, fidelidade e compromisso de cada um com a vida da paróquia. É também uma oportunidade para renovar a consciência de que todos somos chamados a colaborar, conforme nossas possibilidades, para o crescimento do Reino de Deus.",
+        "A celebração do Dia do Dizimista acontece no segundo domingo de cada mês, durante as celebrações da Santa Missa, quando toda a comunidade se une em ação de graças pelos frutos da partilha e pela generosidade daqueles que sustentam a missão da Igreja.",
+        "\"Cada um dê conforme decidiu em seu coração, não com tristeza ou por obrigação, pois Deus ama quem dá com alegria.\"(2Cor 9,7)"
+      ]
+    },
+    "terco-mulheres": {
+      "title": "Terço das Mulheres",
+      "subtitle": "Todos os sábados às 18h",
+      "category": "Oração",
+      "summary": "Todos os sábados às 18h",
+      "content": [
+        "O Terço das Mulheres é um momento de oração, espiritualidade e comunhão, no qual mulheres de todas as idades se reúnem para meditar os mistérios da vida de Jesus Cristo sob o olhar materno da Santíssima Virgem Maria. Inspiradas pelo exemplo de fé, humildade e obediência de Nossa Senhora, as participantes são convidadas a fortalecer sua vida espiritual e a renovar diariamente seu compromisso com o Evangelho.",
+        "Por meio da oração do Santo Rosário, cada encontro torna-se uma oportunidade de confiar a Deus as intenções pessoais, familiares e comunitárias, pedindo a intercessão da Mãe de Jesus pelas necessidades da Igreja, pela paz no mundo, pelas famílias e por todos aqueles que necessitam do amparo divino.",
+        "Além da vivência da espiritualidade mariana, o Terço das Mulheres favorece o fortalecimento dos laços de fraternidade e acolhimento entre as participantes, promovendo um ambiente de escuta, partilha e crescimento na fé. É um convite para que cada mulher descubra, à luz do Evangelho, sua vocação e missão na Igreja e na sociedade.",
+        "Os encontros acontecem todos os sábados, às 18h, na Paróquia Nossa Senhora do Bonsucesso. Todas as mulheres são cordialmente convidadas a participar deste momento de oração e devoção, unindo suas vozes em louvor a Deus e confiando suas vidas e intenções à poderosa intercessão da Virgem Maria.",
+        "\"Feliz aquela que acreditou, porque será cumprido o que o Senhor lhe prometeu.\"(Lc 1,45)"
       ]
     }
   },
