@@ -225,7 +225,7 @@ export default function Layout() {
         className="text-white font-body"
         style={{ background: "linear-gradient(135deg, #0d4f8c, #1a7fd4)" }}
       >
-        <div className="max-w-6xl mx-auto px-4 py-12 grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="max-w-6xl mx-auto px-1 py-12 grid grid-cols-1 md:grid-cols-4 gap-5">
           <div>
             <h3 className="font-serif text-white text-lg mb-3">
               Nossa Senhora do Bonsucesso
@@ -251,6 +251,22 @@ export default function Layout() {
               <li>{t("footer.massThursday")}</li>
               <li>{t("footer.massFriday")}</li>
               <li>{t("footer.massSunday")}</li>
+            </ul>
+          </div>
+          <div>
+            <h4
+              className="font-serif mb-3 text-base"
+              style={{ color: "#FFB7E2" }}
+            >
+              {t("footer.administrativeOfficeHourTitle")}
+            </h4>
+            <ul className="text-sm space-y-1 text-blue-100">
+              <li>{t("footer.administrativeOfficeMonday")}</li>
+              <li>{t("footer.administrativeOfficeWednesday")}</li>
+              <li>{t("footer.administrativeOfficeThursday")}</li>
+              <li>{t("footer.administrativeOfficeFriday")}</li>
+              <li>{t("footer.administrativeOfficeSaturday")}</li>
+              <li>{t("footer.administrativeOfficeSunday")}</li>
             </ul>
           </div>
           <div>

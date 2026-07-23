@@ -18,7 +18,14 @@
     "massThursday": "Quinta-Feira: 19h",
     "massFriday": "Sexta-Feira: 19h",
     "massSunday": "Domingo: 08h, 09h30, 11h e 18h",
-    "contactTitle": "Contato",
+    "administrativeOfficeHourTitle":"Horários da Secretaria",
+    "administrativeOfficeMonday": "Segunda-Feira: 08h às 11h30 / 14h30 às 17h",
+    "administrativeOfficeWednesday": "Quarta-Feira: 08h às 11h30 / 14h30 às 17h",
+    "administrativeOfficeThursday": "Quinta-Feira: 08h às 11h30 / 14h30 às 17h",
+    "administrativeOfficeFriday": "Sexta-Feira: 08h às 11h30 / 14h30 às 17h",
+    "administrativeOfficeSaturday": "Sábado: 08h às 12h",
+    "administrativeOfficeSunday": "Domingo: 09h às 12h",
+    "contactTitle": "Endereço e Contato",
     "copyright": "Paróquia Nossa Senhora do Bonsucesso. Todos os direitos reservados."
   },
   "timeline": {
@@ -28,7 +35,7 @@
     },
     "1929": {
       "title": "Construção do templo Sagrado",
-      "description": "O primeiro culto religioso foi celebrado em 16 de julho de 1930, pelo Pe. Henrique Magalhães, quando era pároco o Pe. Aramis Serpa. Para a construção da Igreja, foram feitas várias campanhas de arrecadação. A comunidade conseguiu arrecadar fundos para a construção através de quermesses, pedidos e festas para a Padroeira."
+      "description": "O templo foi elevado à categoria de Igreja Matriz com a criação da Paróquia de Nossa Senhora do Bonsucesso, mesmo antes da construção da atual Igreja, que tem capacidade para 360 fiéis. Como programa social há o dia do Café dos Pobres, distribuição de cestas básicas para as famílias cadastradas. O primeiro culto religioso foi celebrado em 16 de julho de 1930, pelo Pe. Henrique Magalhães, quando era pároco o Pe. Aramis Serpa. Para a construção da Igreja, foram feitas várias campanhas de arrecadação. A comunidade conseguiu arrecadar fundos para a construção através de quermesses, pedidos e festas para a Padroeira."
     },
     "1972": {
       "title": "Elevação à Paróquia",
@@ -98,10 +105,11 @@
       "category": "Círculos",
       "summary": "Venha se aprofundar na Sagrada Escritura",
       "content": [
-        "Texto1.",
-        "Texto2.",
-        "Texto3.",
-        "Texto4."
+        "O Círculo Bíblico é um momento de encontro, oração e aprofundamento na Palavra de Deus, destinado a todos os fiéis que desejam conhecer mais profundamente as Sagradas Escrituras e fortalecer sua caminhada de fé à luz do Evangelho.",
+        "Por meio da leitura orante da Bíblia, da reflexão em comunidade e da partilha das experiências de vida, os participantes são convidados a compreender melhor a mensagem de Cristo, permitindo que a Palavra ilumine o cotidiano, fortaleça a comunhão fraterna e inspire o compromisso com a missão da Igreja.",
+        "Mais do que um estudo bíblico, o Círculo Bíblico constitui um espaço de formação espiritual, crescimento pessoal e vivência comunitária, onde cada encontro favorece o diálogo, a escuta e o fortalecimento da fé, sempre em sintonia com os ensinamentos da Igreja Católica.",
+        "Os encontros acontecem quinzenalmente, às terças-feiras, às 19h30, no Salão Paroquial da Paróquia Nossa Senhora do Bonsucesso. Toda a comunidade é convidada a participar, independentemente do nível de conhecimento bíblico, pois este é um espaço aberto para acolher todos aqueles que desejam crescer na intimidade com Deus por meio de Sua Palavra.",
+        "Tua palavra é lâmpada para os meus pés e luz para o meu caminho. (Sl 119,105)"
       ]
     },
     "confissao": {
@@ -110,10 +118,11 @@
       "category": "Confissões",
       "summary": "Atendimento de confissões",
       "content": [
-        "Texto1.",
-        "Texto2.",
-        "Texto3.",
-        "Texto4."
+        "O Sacramento da Penitência e da Reconciliação, também conhecido como Confissão, é um precioso dom da misericórdia de Deus, por meio do qual os fiéis são convidados a experimentar o perdão dos pecados, restaurar a comunhão com o Senhor e fortalecer sua caminhada de fé.",
+        "Na Confissão, o cristão encontra um espaço de acolhimento, conversão e renovação espiritual, recebendo, pela ação do sacerdote, a absolvição sacramental e a graça necessária para perseverar na vida cristã. Este sacramento constitui um caminho privilegiado para a reconciliação com Deus, com a Igreja e consigo mesmo.",
+        "Na Paróquia Nossa Senhora do Bonsucesso, o atendimento para Confissões é realizado mediante agendamento prévio, a fim de proporcionar um momento de escuta, oração e celebração do sacramento com a devida atenção pastoral.",
+        "Para realizar o agendamento ou obter mais informações, entre em contato pelo telefone / WhatsApp (21) 97913-9004. A secretaria paroquial terá a alegria em orientá-lo sobre os horários disponíveis e demais esclarecimentos necessários.",
+        "Se confessarmos os nossos pecados, Deus é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça. (1Jo 1,9)"
       ]
     }
   },
