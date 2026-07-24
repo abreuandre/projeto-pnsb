@@ -8,10 +8,10 @@ export const timelineData: Pick<TimelineEvent, "year" | "imageUrl">[] = [
       "/berco_paroquia.jpeg",
   },
   {
-    year: "1929",
+    year: "1930",
     imageUrl: "/construcao_paroquia.jpeg",
   },
-  {
+  /*{
     year: "1972",
     imageUrl:
       "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
@@ -37,5 +37,5 @@ export const timelineData: Pick<TimelineEvent, "year" | "imageUrl">[] = [
   {
     year: "2025",
     imageUrl: "",
-  },
+  },*/
 ];

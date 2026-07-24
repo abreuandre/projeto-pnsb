@@ -119,7 +119,7 @@ export default function HistoryPage() {
             subtitle={t("historyPage.gallery.subtitle")}
           />
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {["/ubiratan.jpeg", "/monsenhor-aramis.jpeg", "/img1.avif", "/img2.avif"].map(
+            {["/ubiratan.jpeg", "/monsenhor-aramis.jpeg", "/img2.avif"].map(
               (src, i) => (
                 <div
                   key={i}

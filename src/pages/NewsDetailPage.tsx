@@ -95,7 +95,8 @@ export default function NewsDetailPage() {
 
       {/* Article */}
       <article className="py-16 px-4 bg-parish-white">
-        <div className="max-w-2xl mx-auto">
+        <div className="max-w-5xl mx-auto">
+          {/* Linha de data/categoria — largura total, fora do grid */}
           <div className="flex flex-wrap items-center gap-4 mb-8 text-sm text-gray-400 font-body border-b border-blue-50 pb-6">
             {item.date && (
               <span className="flex items-center gap-1">
@@ -108,40 +109,60 @@ export default function NewsDetailPage() {
               {item.category}
             </span>
           </div>
-          <div className="space-y-5">
-            {item.content.map((paragraph, i) => (
-              <p
-                key={i}
-                className="font-body text-gray-700 text-base leading-relaxed"
+
+          <div className="grid grid-cols-1 md:grid-cols-[1.3fr_1fr] gap-10 items-start">
+            {/* Coluna de texto */}
+            <div>
+              <div className="space-y-5">
+                {item.content.map((paragraph, i) => (
+                  <p
+                    key={i}
+                    className="font-body text-gray-700 text-base leading-relaxed"
+                  >
+                    {paragraph}
+                  </p>
+                ))}
+              </div>
+              <div className="mt-10 pt-6 border-t border-blue-50 flex flex-wrap gap-2">
+                {item.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="text-xs font-body px-3 py-1 rounded-full uppercase tracking-wide"
+                    style={{
+                      background:
+                        "linear-gradient(135deg, rgba(58,163,255,0.1), rgba(255,183,226,0.2))",
+                      color: "#1a7fd4",
+                    }}
+                  >
+                    #{tag}
+                  </span>
+                ))}
+              </div>
+              <div className="mt-10">
+                <Link
+                  to="/noticias"
+                  className="inline-flex items-center gap-2 font-body text-sm uppercase tracking-widest hover:underline"
+                  style={{ color: "#3AA3FF" }}
+                >
+                  <ArrowLeft size={16} />
+                  {t("newsDetailPage.back")}
+                </Link>
+              </div>
+            </div>
+
+            {/* Coluna da imagem completa */}
+            <div>
+              <div
+                className="rounded-2xl overflow-hidden shadow-lg"
+                style={{ border: "1px solid rgba(58,163,255,0.15)" }}
               >
-                {paragraph}
-              </p>
-            ))}
-          </div>
-          <div className="mt-10 pt-6 border-t border-blue-50 flex flex-wrap gap-2">
-            {item.tags.map((tag) => (
-              <span
-                key={tag}
-                className="text-xs font-body px-3 py-1 rounded-full uppercase tracking-wide"
-                style={{
-                  background:
-                    "linear-gradient(135deg, rgba(58,163,255,0.1), rgba(255,183,226,0.2))",
-                  color: "#1a7fd4",
-                }}
-              >
-                #{tag}
-              </span>
-            ))}
-          </div>
-          <div className="mt-10">
-            <Link
-              to="/noticias"
-              className="inline-flex items-center gap-2 font-body text-sm uppercase tracking-widest hover:underline"
-              style={{ color: "#3AA3FF" }}
-            >
-              <ArrowLeft size={16} />
-              {t("newsDetailPage.back")}
-            </Link>
+                <img
+                  src={item.imageUrl}
+                  alt={item.title}
+                  className="w-full h-auto object-contain"
+                />
+              </div>
+            </div>
           </div>
         </div>
       </article>

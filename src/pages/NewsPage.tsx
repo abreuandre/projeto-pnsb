@@ -5,7 +5,7 @@ import NewsCard from "../components/NewsCard";
 import { newsData } from "../data/news";
 import { NewsItem } from "../types";
 
-const categoryKeys = ["all", "Evento", "Catequese", "Retiro"];
+const categoryKeys = ["all", "Evento", "Catequese", "Retiro", "Oracao", "Dizimo", "Confissoes"];
 
 export default function NewsPage() {
   const { t } = useTranslation();

@@ -1,0 +1,333 @@
+{
+  "ribbon": "Welcome to Our Lady of Bonsucesso Parish",
+  "nav": {
+    "home": "Home",
+    "history": "History",
+    "news": "News",
+    "team": "Our Team",
+    "events": "Events"
+  },
+  "newsCard": {
+    "readMore": "Read more →"
+  },
+  "footer": {
+    "description": "A community of faith, hope, and charity. United in Christ, serving with love.",
+    "massTitle": "Mass Schedule",
+    "massMonday": "Monday: 7 PM",
+    "massWednesday": "Wednesday: 7 PM",
+    "massThursday": "Thursday: 7 PM",
+    "massFriday": "Friday: 7 PM",
+    "massSunday": "Sunday: 8 AM, 9:30 AM, 11 AM and 6 PM",
+    "administrativeOfficeHourTitle": "Office Hours",
+    "administrativeOfficeMonday": "Monday: 8 AM to 11:30 AM / 2:30 PM to 5 PM",
+    "administrativeOfficeWednesday": "Wednesday: 8 AM to 11:30 AM / 2:30 PM to 5 PM",
+    "administrativeOfficeThursday": "Thursday: 8 AM to 11:30 AM / 2:30 PM to 5 PM",
+    "administrativeOfficeFriday": "Friday: 8 AM to 11:30 AM / 2:30 PM to 5 PM",
+    "administrativeOfficeSaturday": "Saturday: 8 AM to 12 PM",
+    "administrativeOfficeSunday": "Sunday: 9 AM to 12 PM",
+    "contactTitle": "Address and Contact",
+    "copyright": "Our Lady of Bonsucesso Parish. All rights reserved."
+  },
+  "timeline": {
+    "1920": {
+      "title": "The Birthplace of the Parish",
+      "description": "The site of the Church, before its construction, was marshy land whose waters drained into the Timbó River. A subdivision was carried out by the Campanha Indústria e Melhoramentos do Brasil, led by Paulo de Frontin, in 1929. However, the land was acquired by the Archdiocese of Rio de Janeiro, since the creation of the Mother Church of the Parish of Our Lady of Bonsucesso had already been decreed in the region on June 29, 1920. The Cornerstone was laid by Bishop D. Joaquim Mamede da Silva Leite."
+    },
+    "1930": {
+      "title": "Construction of the Sacred Temple",
+      "description": "The temple was elevated to Mother Church status with the creation of the Parish of Our Lady of Bonsucesso, even before the construction of the current Church, which has a capacity for 360 faithful. As a social program, there is the Café dos Pobres day, distributing basic food baskets to registered families. The first religious service was celebrated on July 16, 1930, by Fr. Henrique Magalhães, when Fr. Aramis Serpa was the parish priest. Several fundraising campaigns were held for the construction of the Church. The community managed to raise funds for the construction through fairs, donation drives, and feasts for the Patron Saint."
+    },
+    "1972": {
+      "title": "Elevation to Parish",
+      "description": "By decree of the Archbishop of Rio de Janeiro, the community was officially elevated to the status of Parish, gaining autonomy and a resident pastor."
+    },
+    "1985": {
+      "title": "Construction of the Current Church",
+      "description": "Construction of the current parish church began, a project supported by the generosity of hundreds of families and completed in three years of work."
+    },
+    "1990": {
+      "title": "Blessing and Consecration of the Church",
+      "description": "The new church was solemnly blessed and consecrated in a ceremony presided over by the Cardinal Archbishop, bringing together hundreds of faithful on a historic day for the parish."
+    },
+    "2002": {
+      "title": "Golden Jubilee – 50 Years",
+      "description": "The parish celebrated its golden jubilee with great festivity, featuring a week of events, solemn Masses, and the inauguration of the renovated parish hall."
+    },
+    "2015": {
+      "title": "Renovation and Restoration",
+      "description": "An extensive renovation of the church was carried out, including restoration of stained glass windows, floor renewal, and modernization of facilities, while preserving the original architecture."
+    },
+    "2025": {
+      "title": "Today – A Living Community",
+      "description": "With over 70 years of history, Our Lady of Bonsucesso Parish continues to be a beacon of faith, hope, and charity for the entire community, always renewing its commitment to the Gospel."
+    }
+  },
+  "news": {
+    "festa-padroeira-2025": {
+      "title": "Feast of the Patron Saint Our Lady of Bonsucesso",
+      "subtitle": "Three days of celebration, faith, and community",
+      "category": "Event",
+      "summary": "Our Lady of Bonsucesso Parish invites the entire community to the great Patron Saint Feast, with solemn Masses, a candlelit procession, and a parish fair.",
+      "content": [
+        "Our Lady of Bonsucesso Parish has the immense joy of inviting all the faithful and friends to the celebration of the Patron Saint Feast, which will take place on August 14, 15, and 16, 2025.",
+        "The program begins on Friday (14) with the Opening Mass at 7 PM, presided over by our pastor, Father Marcos Antônio. On Saturday, there will be an Outdoor Mass at 6 PM followed by an Illuminated Procession through the neighborhood streets, with lanterns and hymns to Our Lady.",
+        "Sunday (16) features the Main Solemn Mass at 10 AM, with the participation of the parish choir and special guests. In the afternoon, starting at 2 PM, the Parish Fair will take place with typical food stalls, games, and plenty of fun for families.",
+        "Come celebrate with us the grace of Our Lady of Bonsucesso, who has interceded for our community for so many years. Bring your family, friends, and neighbors. Everyone is welcome!"
+      ]
+    },
+    "catequese-2025-inscricoes": {
+      "title": "Registrations Open for Catechism 2025",
+      "subtitle": "First Communion and Confirmation — limited spots",
+      "category": "Catechism",
+      "summary": "Registrations are open for the First Communion and Confirmation Catechism 2025. Classes begin in March and spots are limited.",
+      "content": [
+        "The Parish Secretariat announces that registrations are open for the First Communion and Confirmation Catechism groups for 2025. Registration can be completed at the parish office Monday through Friday, from 9 AM to 12 PM and 2 PM to 5 PM.",
+        "For First Communion, children aged 8 and older as of December 31, 2025 will be accepted. For Confirmation, youth aged 13 and older. Groups will be organized by age, and classes will take place on Saturdays.",
+        "Required documents for registration: baptism certificate, ID or birth certificate of the catechumen, and a guardian's document.",
+        "Spots are limited and will be filled on a first-come, first-served basis. For more information, contact the secretariat by phone at (21) 3333-0000 or via the parish WhatsApp."
+      ]
+    },
+    "retiro-quaresma-2025": {
+      "title": "Lent Retreat: Conversion and Renewal",
+      "subtitle": "A weekend of prayer and spiritual reflection",
+      "category": "Retreat",
+      "summary": "The Parish is hosting a Lent Retreat for youth and adults, with preaching, sacraments, and moments of adoration before the Blessed Sacrament.",
+      "content": [
+        "Next March, Our Lady of Bonsucesso Parish will hold the traditional Lent Retreat, open to youth aged 16 and older and adults. The event will take place at the Nossa Senhora Auxiliadora Retreat House in Petrópolis, from Friday to Sunday.",
+        "This year's theme will be \"Return to me with all your heart\" (Joel 2:12), inviting participants to a deep experience of conversion and inner renewal. The program includes preaching, moments of adoration before the Blessed Sacrament, confessions, and group sharing.",
+        "The retreat will be led by Father Marcos Antônio with the participation of a guest preacher. The registration fee covers accommodation and meals for the full weekend.",
+        "Registrations must be made at the parish secretariat. To secure your spot, a 50% deposit is required at the time of registration. Don't miss this opportunity to deepen your spiritual life during this sacred season of Lent."
+      ]
+    },
+    "circulo-biblico": {
+      "title": "Bible Circle",
+      "subtitle": "Come deepen your knowledge of Sacred Scripture",
+      "category": "Circles",
+      "summary": "Come deepen your knowledge of Sacred Scripture",
+      "content": [
+        "The Bible Circle is a time of gathering, prayer, and deepening in the Word of God, intended for all the faithful who wish to know the Sacred Scriptures more deeply and strengthen their journey of faith in the light of the Gospel.",
+        "Through the prayerful reading of the Bible, community reflection, and the sharing of life experiences, participants are invited to better understand the message of Christ, allowing the Word to illuminate everyday life, strengthen fraternal communion, and inspire commitment to the Church's mission.",
+        "More than a Bible study, the Bible Circle is a space for spiritual formation, personal growth, and community life, where each meeting fosters dialogue, listening, and the strengthening of faith, always in harmony with the teachings of the Catholic Church.",
+        "The meetings take place every other week, on Tuesdays, at 7:30 PM, in the Parish Hall of Our Lady of Bonsucesso Parish. The whole community is invited to take part, regardless of their level of biblical knowledge, as this is an open space that welcomes all who wish to grow closer to God through His Word.",
+        "\"Your word is a lamp to my feet and a light to my path. (Ps 119:105)\""
+      ]
+    },
+    "confissao": {
+      "title": "Confessions",
+      "subtitle": "Confession appointments",
+      "category": "Confessions",
+      "summary": "Confessions available by appointment",
+      "content": [
+        "The Sacrament of Penance and Reconciliation, also known as Confession, is a precious gift of God's mercy, through which the faithful are invited to experience the forgiveness of sins, restore communion with the Lord, and strengthen their journey of faith.",
+        "In Confession, the Christian finds a space of welcome, conversion, and spiritual renewal, receiving, through the priest's action, sacramental absolution and the grace needed to persevere in Christian life. This sacrament is a privileged path to reconciliation with God, with the Church, and with oneself.",
+        "At Our Lady of Bonsucesso Parish, Confessions are heard by appointment, in order to provide a moment of listening, prayer, and celebration of the sacrament with the proper pastoral attention.",
+        "To schedule an appointment or for more information, please contact us by phone / WhatsApp at (21) 97913-9004. The parish office will be glad to inform you of available times and answer any further questions.",
+        "\"If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. (1 John 1:9)\""
+      ]
+    },
+    "terco-homens": {
+      "title": "Men's Rosary",
+      "subtitle": "Wednesday after Mass",
+      "category": "Prayer",
+      "summary": "Wednesday after Mass",
+      "content": [
+        "The Men's Rosary is an important Marian spirituality movement that brings together men of all ages who, united in prayer, seek to strengthen their faith, deepen their devotion to the Virgin Mary, and renew their commitment to following Jesus Christ.",
+        "Through meditation on the mysteries of the Holy Rosary, participants are invited to contemplate the life of Christ under the motherly gaze of Our Lady, finding in prayer a path of conversion, perseverance, and spiritual growth. The movement also encourages living out Christian values in family, work, and community life, forming men committed to the Church's evangelizing mission.",
+        "In addition to fostering personal spirituality, the Men's Rosary strengthens the bonds of fraternity among its participants, becoming a space of welcome, sharing, and witness of faith, where each man is called to live his Christian vocation with responsibility, love, and service.",
+        "Meetings take place every Wednesday, after the 7 PM Holy Mass, at Our Lady of Bonsucesso Parish. All men are cordially invited to take part in this moment of prayer and devotion, entrusting their intentions to the intercession of the Blessed Virgin Mary and placing their lives in God's hands.",
+        "\"Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.\""
+      ]
+    },
+    "adoracao": {
+      "title": "Adoration",
+      "subtitle": "Thursday Adoration",
+      "category": "Prayer",
+      "summary": "Thursday Adoration",
+      "content": [
+        "Thursday Adoration is a privileged time of personal and communal encounter with Jesus Christ present in the Most Holy Eucharist. Before the Blessed Sacrament, the faithful are invited to live a profound experience of prayer, silence, and contemplation, recognizing in Christ's real presence the source of all grace, hope, and spiritual strengthening.",
+        "During this time of adoration, the community is called to give thanks to God, present their intentions, renew their faith, and entrust to the Lord the joys, challenges, and needs of everyday life. It is an invitation to intimacy with Christ, who remains among us and strengthens us to live the Gospel with fidelity and love.",
+        "Adoration of the Blessed Sacrament is one of the most beautiful expressions of Catholic spirituality, leading the faithful to a greater love for the Eucharist and awakening the desire for a life marked by conversion, charity, and communion with God and with one another.",
+        "Thursday Adoration meetings take place every Thursday, at 6 PM, at Our Lady of Bonsucesso Parish. The whole community is cordially invited to take part in this moment of recollection and prayer, placing themselves in the presence of the Lord to adore Him, listen to Him, and renew their strength for the Christian journey.",
+        "\"Remain in me, and I will remain in you. (John 15:4)\""
+      ]
+    },
+    "dizimista": {
+      "title": "Tithe Giver's Day",
+      "subtitle": "Second Sunday of the month",
+      "category": "Tithe",
+      "summary": "The tithe is sharing! Your generosity helps our parish cover its costs and continue its evangelizing mission!",
+      "content": [
+        "Tithe Giver's Day is a special occasion on which Our Lady of Bonsucesso Parish expresses its gratitude to all the faithful who, with a spirit of faith, generosity, and shared responsibility, collaborate with the Church's evangelizing mission through the giving of tithes.",
+        "More than a material contribution, the tithe is a gesture of recognition that all goods come from God. By giving back a part of what they have received, the tithe giver expresses their trust in Divine Providence and actively takes part in maintaining the parish community, caring for the House of God, and the various pastoral, social, and missionary works carried out by the Church.",
+        "On this day, the community is invited to pray in a special way for all tithe givers and their families, giving thanks for the dedication, faithfulness, and commitment of each one to the life of the parish. It is also an opportunity to renew the awareness that we are all called to collaborate, according to our means, in the growth of God's Kingdom.",
+        "Tithe Giver's Day is celebrated on the second Sunday of each month, during the Holy Mass, when the whole community joins together in thanksgiving for the fruits of sharing and the generosity of those who sustain the Church's mission.",
+        "\"Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver. (2 Cor 9:7)\""
+      ]
+    },
+    "terco-mulheres": {
+      "title": "Women's Rosary",
+      "subtitle": "Every Saturday at 6 PM",
+      "category": "Prayer",
+      "summary": "Every Saturday at 6 PM",
+      "content": [
+        "The Women's Rosary is a time of prayer, spirituality, and communion, in which women of all ages gather to meditate on the mysteries of the life of Jesus Christ under the motherly gaze of the Blessed Virgin Mary. Inspired by Our Lady's example of faith, humility, and obedience, participants are invited to strengthen their spiritual life and renew their commitment to the Gospel each day.",
+        "Through the praying of the Holy Rosary, each meeting becomes an opportunity to entrust to God personal, family, and community intentions, asking for the intercession of the Mother of Jesus for the needs of the Church, for peace in the world, for families, and for all who need divine help.",
+        "In addition to living out Marian spirituality, the Women's Rosary strengthens the bonds of fraternity and welcome among participants, fostering an environment of listening, sharing, and growth in faith. It is an invitation for each woman to discover, in the light of the Gospel, her vocation and mission in the Church and in society.",
+        "Meetings take place every Saturday, at 6 PM, at Our Lady of Bonsucesso Parish. All women are cordially invited to take part in this moment of prayer and devotion, joining their voices in praise of God and entrusting their lives and intentions to the powerful intercession of the Virgin Mary.",
+        "\"Blessed is she who believed that what the Lord said to her would be fulfilled. (Luke 1:45)\""
+      ]
+    },
+    "grupo-oracao": {
+      "title": "Prayer Group",
+      "subtitle": "Every Thursday at 8 PM at St. Peter's Chapel",
+      "category": "Prayer",
+      "summary": "Every Thursday at 8 PM at St. Peter's Chapel",
+      "content": [
+        "The Prayer Group is a time of fraternal gathering and spiritual renewal, in which the faithful come together to praise and bless God, meditate on His Word, and strengthen their Christian life through community prayer. Enlightened by the action of the Holy Spirit, participants are invited to deepen their intimacy with Christ, grow in faith, and bear witness to the Gospel in daily life.",
+        "The meetings provide an environment of welcome, listening, and communion, fostering the living of spirituality, the sharing of experiences of faith, and intercession for the needs of the Church, of families, and of the whole community. It is a space where each person can renew their hope, strengthen their trust in God, and experience the joy of walking in communion with others.",
+        "The Prayer Group seeks to encourage a life of constant prayer, nourished by Sacred Scripture, the sacraments, and active participation in the ecclesial community, contributing to the formation of missionary disciples committed to the Church's evangelizing mission.",
+        "Meetings take place every Thursday, at 8 PM, at St. Peter's Chapel, located in the São Pedro Community, at Exit 7 of the Linha Amarela. The whole community is cordially invited to take part in this moment of praise, prayer, and fraternity, opening their hearts to the action of the Holy Spirit and allowing God to guide each step of the Christian journey.",
+        "\"Where two or three are gathered in my name, there am I with them. (Matt 18:20)\""
+      ]
+    }
+  },
+  "team": {
+    "1": {
+      "role": "Pastor",
+      "bio": "Born in Belo Horizonte, MG, in 1972, Father Marcos Antônio Silva was ordained a priest in 1999 by the Diocese of Belo Horizonte. He holds a degree in Theology from PUC Minas and a specialization in Family Pastoral Ministry from the Pontifical Salesian University in Rome.\nBefore taking on the parish, he served as a vicar in two communities in his home diocese and as spiritual director of the diocesan seminary for five years. He arrived at Our Lady of Bonsucesso Parish in 2018, where he has since carried out his pastoral ministry with dedication and joy.\nHe is known for his welcoming homilies and his special attention to youth and families in vulnerable situations. He also coordinates the Sobriety Pastoral Ministry and serves as advisor to the Catholic Charismatic Renewal in the region."
+    },
+    "2": {
+      "role": "Associate Pastor",
+      "bio": ""
+    },
+    "3": {
+      "role": "Permanent Deacon",
+      "bio": ""
+    },
+    "4": {
+      "role": "Parish Secretary",
+      "bio": ""
+    },
+    "5": {
+      "role": "Pascom",
+      "bio": ""
+    },
+    "6": {
+      "role": "Liturgy Coordinator",
+      "bio": "Responsible for preparing liturgical celebrations, Ana Paula has been coordinating the choir, Eucharistic ministers, and parish lectors for 8 years."
+    }
+  },
+  "teamPage": {
+    "hero": {
+      "kicker": "Who we are",
+      "title": "Our Team"
+    },
+    "priestSection": {
+      "title": "Pastor",
+      "subtitle": "The priest responsible for our community"
+    },
+    "collaboratorsSection": {
+      "title": "Collaborators",
+      "subtitle": "The people who make the parish happen"
+    },
+    "cta": {
+      "kicker": "Join us",
+      "title": "Want to serve at the parish?",
+      "description": "Our community is driven by volunteers passionate about their faith. If you feel called to serve, get in touch and discover how to get involved.",
+      "button": "Get in Touch"
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "kicker": "Stay informed",
+      "title": "News and Events"
+    },
+    "categories": {
+      "all": "All",
+      "Evento": "Event",
+      "Catequese": "Catechism",
+      "Retiro": "Retreat",
+      "Circulo": "Circles",
+      "Confissoes": "Confessions",
+      "Oracao": "Prayer",
+      "Dizimo": "Tithe"
+    },
+    "allPublications": "All Publications",
+    "resultsCount_one": "{{count}} publication found",
+    "resultsCount_other": "{{count}} publications found",
+    "empty": "No publications in this category."
+  },
+  "newsDetailPage": {
+    "back": "Back to News",
+    "otherPublications": "Other Publications"
+  },
+  "historyPage": {
+    "hero": {
+      "kicker": "Our Journey",
+      "title": "Parish History"
+    },
+    "intro": "One of the most beautiful churches in the Leopoldina area, built on Rua General Galiene, in the suburb of Bonsucesso. The Mother Church of the Parish of Our Lady of Bonsucesso is built in a beautiful style that blends the old with the new, combining Gothic features with a modern structure. The Church has a unique façade, formed by a front made up of a series of adjoining columns decorated at increasing heights.",
+    "gallery": {
+      "title": "Historical Gallery",
+      "subtitle": "Images that tell the story of our community",
+      "editHint": "Add your historical photos by editing the file"
+    },
+    "noImage": "Insert an image here"
+  },
+  "homePage": {
+    "hero": {
+      "titleLine1": "Our Lady",
+      "titleLine2": "of Bonsucesso Parish",
+      "description": "A living community of faith, welcoming everyone into God's grace. Come celebrate, pray, and serve with us. Everyone is welcome!",
+      "ctaHistory": "Discover Our History",
+      "ctaEvents": "Upcoming Events"
+    },
+    "massTimes": {
+      "title": "Mass Schedule",
+      "subtitle": "Come celebrate the Eucharist with us",
+      "days": {
+        "weekdays": [
+          "Monday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "saturday": "Saturday",
+        "sunday": "Sunday"
+      }
+    },
+    "welcome": {
+      "kicker": "Welcome",
+      "title": "A house open to everyone",
+      "paragraph1": "Our Lady of Bonsucesso Parish is a church community that, for over seven decades, has welcomed the faithful of all ages, backgrounds, and life stories. Here, the Gospel is lived out daily, through sharing and service to one another.",
+      "paragraph2": "Whether you're someone seeking to grow closer to faith, restart a spiritual journey, or simply find a welcoming community — our door is always open. As Jesus said:",
+      "quote": "\"Come to me.\"",
+      "cta": "Meet Our Team"
+    },
+    "highlights": {
+      "faith": {
+        "title": "Faith and Tradition",
+        "desc": "Over 70 years of history, celebrating the sacraments and passing on the Catholic faith."
+      },
+      "community": {
+        "title": "Active Community",
+        "desc": "Pastoral ministries, prayer groups, and movements for all ages and vocations."
+      },
+      "dailyMass": {
+        "title": "Daily Masses",
+        "desc": "Eucharistic celebrations every day to nourish the community's spiritual life."
+      }
+    },
+    "news": {
+      "kicker": "Stay in the loop",
+      "title": "Latest News",
+      "viewAll": "View all"
+    },
+    "cta": {
+      "quote": "\"Love one another\"",
+      "title": "Become part of our community",
+      "description": "Discover the groups, movements, and pastoral ministries that transform lives and strengthen faith.",
+      "button": "See Upcoming Events"
+    }
+  }
+}

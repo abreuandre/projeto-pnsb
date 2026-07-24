@@ -1,0 +1,333 @@
+{
+  "ribbon": "Benvenuti nella Parrocchia di Nostra Signora del Bonsucesso",
+  "nav": {
+    "home": "Home",
+    "history": "Storia",
+    "news": "Notizie",
+    "team": "Il Nostro Team",
+    "events": "Eventi"
+  },
+  "newsCard": {
+    "readMore": "Leggi di più →"
+  },
+  "footer": {
+    "description": "Una comunità di fede, speranza e carità. Uniti in Cristo, al servizio con amore.",
+    "massTitle": "Orari delle Messe",
+    "massMonday": "Lunedì: 19h",
+    "massWednesday": "Mercoledì: 19h",
+    "massThursday": "Giovedì: 19h",
+    "massFriday": "Venerdì: 19h",
+    "massSunday": "Domenica: 8h, 9h30, 11h e 18h",
+    "administrativeOfficeHourTitle": "Orari della Segreteria",
+    "administrativeOfficeMonday": "Lunedì: 8h alle 11h30 / 14h30 alle 17h",
+    "administrativeOfficeWednesday": "Mercoledì: 8h alle 11h30 / 14h30 alle 17h",
+    "administrativeOfficeThursday": "Giovedì: 8h alle 11h30 / 14h30 alle 17h",
+    "administrativeOfficeFriday": "Venerdì: 8h alle 11h30 / 14h30 alle 17h",
+    "administrativeOfficeSaturday": "Sabato: 8h alle 12h",
+    "administrativeOfficeSunday": "Domenica: 9h alle 12h",
+    "contactTitle": "Indirizzo e Contatti",
+    "copyright": "Parrocchia Nostra Signora del Bonsucesso. Tutti i diritti riservati."
+  },
+  "timeline": {
+    "1920": {
+      "title": "La Culla della Parrocchia",
+      "description": "Il luogo della Chiesa, prima della sua costruzione, era paludoso e le sue acque defluivano nel Fiume Timbó. Nel 1929 fu realizzata una lottizzazione da parte della Campanha Indústria e Melhoramentos do Brasil, per opera di Paulo de Frontin. Tuttavia, il terreno fu acquisito dall'Arcidiocesi di Rio de Janeiro, poiché era già stata decretata nella regione la creazione della Chiesa Madre della Parrocchia di Nostra Signora del Bonsucesso, il 29 giugno 1920. La Prima Pietra fu posata dal Vescovo D. Joaquim Mamede da Silva Leite."
+    },
+    "1930": {
+      "title": "Costruzione del Tempio Sacro",
+      "description": "Il tempio fu elevato al rango di Chiesa Madre con la creazione della Parrocchia di Nostra Signora del Bonsucesso, ancor prima della costruzione dell'attuale Chiesa, che ha una capacità di 360 fedeli. Come programma sociale, si tiene la giornata del Caffè dei Poveri, con la distribuzione di pacchi alimentari alle famiglie registrate. La prima celebrazione religiosa fu officiata il 16 luglio 1930 da Padre Henrique Magalhães, quando parroco era Padre Aramis Serpa. Per la costruzione della Chiesa furono organizzate diverse campagne di raccolta fondi. La comunità riuscì a raccogliere fondi per la costruzione attraverso sagre, questue e feste in onore della Patrona."
+    },
+    "1972": {
+      "title": "Elevazione a Parrocchia",
+      "description": "Per decreto dell'Arcivescovo di Rio de Janeiro, la comunità viene ufficialmente elevata allo status di Parrocchia, ottenendo autonomia e un parroco residente."
+    },
+    "1985": {
+      "title": "Costruzione del Tempio Attuale",
+      "description": "Ha inizio la costruzione dell'attuale chiesa parrocchiale, un progetto sostenuto dalla generosità di centinaia di famiglie e completato in tre anni di lavoro."
+    },
+    "1990": {
+      "title": "Benedizione e Consacrazione del Tempio",
+      "description": "Il nuovo tempio viene solennemente benedetto e consacrato in una cerimonia presieduta dal Cardinale Arcivescovo, riunendo centinaia di fedeli in un giorno storico per la parrocchia."
+    },
+    "2002": {
+      "title": "Giubileo d'Oro – 50 Anni",
+      "description": "La parrocchia celebra con grande festa il suo giubileo d'oro, con una settimana di eventi, messe solenni e l'inaugurazione del salone parrocchiale ristrutturato."
+    },
+    "2015": {
+      "title": "Restauro e Rinnovamento",
+      "description": "Viene eseguito un ampio restauro del tempio, con il ripristino delle vetrate, il rinnovo del pavimento e la modernizzazione degli impianti, preservando l'architettura originale."
+    },
+    "2025": {
+      "title": "Oggi – Una Comunità Viva",
+      "description": "Con oltre 70 anni di storia, la Parrocchia Nostra Signora del Bonsucesso continua a essere un faro di fede, speranza e carità per tutta la comunità, rinnovando sempre il suo impegno con il Vangelo."
+    }
+  },
+  "news": {
+    "festa-padroeira-2025": {
+      "title": "Festa della Patrona Nostra Signora del Bonsucesso",
+      "subtitle": "Tre giorni di celebrazione, fede e comunità",
+      "category": "Evento",
+      "summary": "La Parrocchia Nostra Signora del Bonsucesso invita tutta la comunità alla grande Festa della Patrona, con messe solenni, processione illuminata e sagra parrocchiale.",
+      "content": [
+        "La Parrocchia Nostra Signora del Bonsucesso ha l'immensa gioia di invitare tutti i fedeli e gli amici alla celebrazione della Festa della Patrona, che si svolgerà nei giorni 14, 15 e 16 agosto 2025.",
+        "Il programma inizia venerdì (14) con la Messa di Apertura alle 19h, presieduta dal nostro parroco, Padre Marcos Antônio. Sabato ci sarà una Messa all'Aperto alle 18h seguita da una Processione Illuminata per le strade del quartiere, con lanterne e canti a Nostra Signora.",
+        "Domenica (16) è prevista la Messa Solenne Principale alle 10h, con la partecipazione del coro parrocchiale e ospiti speciali. Nel pomeriggio, a partire dalle 14h, si terrà la Sagra con bancarelle di prodotti tipici, giochi e tanta allegria per le famiglie.",
+        "Venite a celebrare con noi la grazia di Nostra Signora del Bonsucesso, che da tanti anni intercede per la nostra comunità. Portate la vostra famiglia, i vostri amici e vicini. Tutti sono benvenuti!"
+      ]
+    },
+    "catequese-2025-inscricoes": {
+      "title": "Iscrizioni Aperte per il Catechismo 2025",
+      "subtitle": "Prima Comunione e Cresima — posti limitati",
+      "category": "Catechismo",
+      "summary": "Sono aperte le iscrizioni per il Catechismo di Prima Comunione e Cresima 2025. Le lezioni iniziano a marzo e i posti sono limitati.",
+      "content": [
+        "La Segreteria Parrocchiale comunica che sono aperte le iscrizioni per i gruppi di Catechismo di Prima Comunione e Cresima per l'anno 2025. Le iscrizioni possono essere effettuate presso la segreteria parrocchiale dal lunedì al venerdì, dalle 9h alle 12h e dalle 14h alle 17h.",
+        "Per la Prima Comunione saranno accettati bambini a partire dagli 8 anni compiuti entro il 31 dicembre 2025. Per la Cresima, giovani a partire dai 13 anni. I gruppi saranno formati per fascia d'età e le lezioni si svolgeranno il sabato.",
+        "I documenti necessari per l'iscrizione sono: certificato di battesimo, documento d'identità o certificato di nascita del catechizzando e documento del responsabile.",
+        "I posti sono limitati e verranno assegnati in ordine di iscrizione. Per ulteriori informazioni, contattate la segreteria al telefono (21) 3333-0000 o tramite il WhatsApp parrocchiale."
+      ]
+    },
+    "retiro-quaresma-2025": {
+      "title": "Ritiro di Quaresima: Conversione e Rinnovamento",
+      "subtitle": "Un weekend di preghiera e riflessione spirituale",
+      "category": "Ritiro",
+      "summary": "La Parrocchia organizza il Ritiro di Quaresima per giovani e adulti, con predicazioni, sacramenti e momenti di adorazione al Santissimo.",
+      "content": [
+        "Il prossimo mese di marzo, la Parrocchia Nostra Signora del Bonsucesso terrà il tradizionale Ritiro di Quaresima, aperto ai giovani a partire dai 16 anni e agli adulti. L'evento si svolgerà presso la Casa di Ritiri Nostra Signora Ausiliatrice a Petrópolis, da venerdì a domenica.",
+        "Il tema di quest'anno sarà \"Ritornate a me con tutto il cuore\" (Gioele 2,12), invitando i partecipanti a una profonda esperienza di conversione e rinnovamento interiore. Il programma include predicazioni, momenti di adorazione al Santissimo Sacramento, confessioni e condivisioni in gruppo.",
+        "Il ritiro sarà guidato da Padre Marcos Antônio con la partecipazione di un predicatore ospite. La quota di iscrizione comprende vitto e alloggio per l'intero weekend.",
+        "Le iscrizioni devono essere effettuate presso la segreteria parrocchiale. Per garantire il proprio posto, è necessario versare il 50% della quota al momento dell'iscrizione. Non perdete questa opportunità di approfondire la vostra vita spirituale in questo tempo sacro della Quaresima."
+      ]
+    },
+    "circulo-biblico": {
+      "title": "Circolo Biblico",
+      "subtitle": "Vieni ad approfondire la Sacra Scrittura",
+      "category": "Circoli",
+      "summary": "Vieni ad approfondire la Sacra Scrittura",
+      "content": [
+        "Il Circolo Biblico è un momento di incontro, preghiera e approfondimento della Parola di Dio, rivolto a tutti i fedeli che desiderano conoscere più a fondo le Sacre Scritture e rafforzare il proprio cammino di fede alla luce del Vangelo.",
+        "Attraverso la lettura orante della Bibbia, la riflessione comunitaria e la condivisione delle esperienze di vita, i partecipanti sono invitati a comprendere meglio il messaggio di Cristo, permettendo che la Parola illumini la quotidianità, rafforzi la comunione fraterna e ispiri l'impegno con la missione della Chiesa.",
+        "Più di uno studio biblico, il Circolo Biblico costituisce uno spazio di formazione spirituale, crescita personale e vita comunitaria, dove ogni incontro favorisce il dialogo, l'ascolto e il rafforzamento della fede, sempre in sintonia con gli insegnamenti della Chiesa Cattolica.",
+        "Gli incontri si svolgono ogni due settimane, il martedì, alle 19h30, nel Salone Parrocchiale della Parrocchia Nostra Signora del Bonsucesso. Tutta la comunità è invitata a partecipare, indipendentemente dal livello di conoscenza biblica, poiché questo è uno spazio aperto ad accogliere tutti coloro che desiderano crescere nell'intimità con Dio attraverso la Sua Parola.",
+        "\"La tua parola è lampada per i miei passi, luce sul mio cammino. (Sal 119,105)\""
+      ]
+    },
+    "confissao": {
+      "title": "Confessioni",
+      "subtitle": "Servizio di confessioni",
+      "category": "Confessioni",
+      "summary": "Confessioni su appuntamento",
+      "content": [
+        "Il Sacramento della Penitenza e della Riconciliazione, noto anche come Confessione, è un prezioso dono della misericordia di Dio, attraverso il quale i fedeli sono invitati a sperimentare il perdono dei peccati, ristabilire la comunione con il Signore e rafforzare il proprio cammino di fede.",
+        "Nella Confessione, il cristiano trova uno spazio di accoglienza, conversione e rinnovamento spirituale, ricevendo, attraverso l'azione del sacerdote, l'assoluzione sacramentale e la grazia necessaria per perseverare nella vita cristiana. Questo sacramento costituisce una via privilegiata per la riconciliazione con Dio, con la Chiesa e con se stessi.",
+        "Nella Parrocchia Nostra Signora del Bonsucesso, il servizio di Confessioni viene effettuato previo appuntamento, al fine di offrire un momento di ascolto, preghiera e celebrazione del sacramento con la dovuta attenzione pastorale.",
+        "Per fissare un appuntamento o ottenere maggiori informazioni, contattateci telefonicamente / via WhatsApp al (21) 97913-9004. La segreteria parrocchiale sarà lieta di indicarvi gli orari disponibili e fornirvi ogni altro chiarimento necessario.",
+        "\"Se confessiamo i nostri peccati, Egli è fedele e giusto tanto da perdonarci i peccati e purificarci da ogni iniquità. (1Gv 1,9)\""
+      ]
+    },
+    "terco-homens": {
+      "title": "Rosario degli Uomini",
+      "subtitle": "Mercoledì dopo la Messa",
+      "category": "Preghiera",
+      "summary": "Mercoledì dopo la Messa",
+      "content": [
+        "Il Rosario degli Uomini è un importante movimento di spiritualità mariana che riunisce uomini di ogni età per, uniti nella preghiera, rafforzare la fede, approfondire la devozione alla Vergine Maria e rinnovare l'impegno nel seguire Gesù Cristo.",
+        "Attraverso la meditazione dei misteri del Santo Rosario, i partecipanti sono invitati a contemplare la vita di Cristo sotto lo sguardo materno di Nostra Signora, trovando nella preghiera un cammino di conversione, perseveranza e crescita spirituale. Il movimento incoraggia inoltre a vivere i valori cristiani nell'ambito familiare, professionale e comunitario, formando uomini impegnati nella missione evangelizzatrice della Chiesa.",
+        "Oltre a promuovere la spiritualità personale, il Rosario degli Uomini rafforza i legami di fraternità tra i partecipanti, diventando uno spazio di accoglienza, condivisione e testimonianza di fede, dove ogni uomo è chiamato a vivere la propria vocazione cristiana con responsabilità, amore e servizio.",
+        "Gli incontri si svolgono ogni mercoledì, dopo la Santa Messa delle 19h, nella Parrocchia Nostra Signora del Bonsucesso. Tutti gli uomini sono cordialmente invitati a partecipare a questo momento di preghiera e devozione, affidando le proprie intenzioni all'intercessione della Beata Vergine Maria e ponendo la propria vita nelle mani di Dio.",
+        "\"Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell'ora della nostra morte. Amen.\""
+      ]
+    },
+    "adoracao": {
+      "title": "Adorazione",
+      "subtitle": "Adorazione del Giovedì",
+      "category": "Preghiera",
+      "summary": "Adorazione del Giovedì",
+      "content": [
+        "L'Adorazione del Giovedì è un momento privilegiato di incontro personale e comunitario con Gesù Cristo presente nella Santissima Eucaristia. Davanti al Santissimo Sacramento, i fedeli sono invitati a vivere un'esperienza profonda di preghiera, silenzio e contemplazione, riconoscendo nella presenza reale di Cristo la fonte di ogni grazia, speranza e forza spirituale.",
+        "Durante questo tempo di adorazione, la comunità è chiamata a rendere grazie a Dio, presentare le proprie intenzioni, rinnovare la propria fede e affidare al Signore le gioie, le sfide e le necessità della vita quotidiana. È un invito all'intimità con Cristo, che rimane tra noi e ci fortifica per vivere il Vangelo con fedeltà e amore.",
+        "L'Adorazione al Santissimo Sacramento costituisce una delle più belle espressioni della spiritualità cattolica, conducendo i fedeli a un amore più grande per l'Eucaristia e risvegliando il desiderio di una vita segnata dalla conversione, dalla carità e dalla comunione con Dio e con i fratelli.",
+        "Gli incontri dell'Adorazione del Giovedì si svolgono ogni giovedì, alle 18h, nella Parrocchia Nostra Signora del Bonsucesso. Tutta la comunità è cordialmente invitata a partecipare a questo momento di raccoglimento e preghiera, ponendosi alla presenza del Signore per adorarLo, ascoltarLo e rinnovare le forze per il cammino cristiano.",
+        "\"Rimanete in me e io in voi. (Gv 15,4)\""
+      ]
+    },
+    "dizimista": {
+      "title": "Giornata del Decimatore",
+      "subtitle": "Seconda domenica del mese",
+      "category": "Decima",
+      "summary": "La decima è condivisione! La tua generosità aiuta la nostra parrocchia a coprire le spese e a proseguire la sua missione evangelizzatrice!",
+      "content": [
+        "La Giornata del Decimatore è un'occasione speciale in cui la Parrocchia Nostra Signora del Bonsucesso manifesta la propria gratitudine a tutti i fedeli che, con spirito di fede, generosità e corresponsabilità, collaborano alla missione evangelizzatrice della Chiesa attraverso la restituzione della decima.",
+        "Più che un contributo materiale, la decima è un gesto di riconoscimento che tutti i beni provengono da Dio. Restituendo una parte di ciò che ha ricevuto, il decimatore esprime la propria fiducia nella Divina Provvidenza e partecipa attivamente al sostentamento della comunità parrocchiale, alla cura della Casa di Dio e alle diverse azioni pastorali, sociali e missionarie svolte dalla Chiesa.",
+        "In questo giorno, la comunità è invitata a pregare in modo speciale per tutti i decimatori e le loro famiglie, ringraziando per la dedizione, la fedeltà e l'impegno di ciascuno nella vita della parrocchia. È anche un'occasione per rinnovare la consapevolezza che tutti siamo chiamati a collaborare, secondo le nostre possibilità, alla crescita del Regno di Dio.",
+        "La celebrazione della Giornata del Decimatore si svolge la seconda domenica di ogni mese, durante le celebrazioni della Santa Messa, quando tutta la comunità si unisce in rendimento di grazie per i frutti della condivisione e per la generosità di coloro che sostengono la missione della Chiesa.",
+        "\"Ciascuno dia secondo quanto ha deciso nel proprio cuore, non con tristezza né per costrizione, perché Dio ama chi dona con gioia. (2Cor 9,7)\""
+      ]
+    },
+    "terco-mulheres": {
+      "title": "Rosario delle Donne",
+      "subtitle": "Tutti i sabati alle 18h",
+      "category": "Preghiera",
+      "summary": "Tutti i sabati alle 18h",
+      "content": [
+        "Il Rosario delle Donne è un momento di preghiera, spiritualità e comunione, in cui donne di ogni età si riuniscono per meditare i misteri della vita di Gesù Cristo sotto lo sguardo materno della Beata Vergine Maria. Ispirate dall'esempio di fede, umiltà e obbedienza di Nostra Signora, le partecipanti sono invitate a rafforzare la propria vita spirituale e a rinnovare quotidianamente il proprio impegno con il Vangelo.",
+        "Attraverso la preghiera del Santo Rosario, ogni incontro diventa un'occasione per affidare a Dio le intenzioni personali, familiari e comunitarie, chiedendo l'intercessione della Madre di Gesù per le necessità della Chiesa, per la pace nel mondo, per le famiglie e per tutti coloro che hanno bisogno dell'aiuto divino.",
+        "Oltre a vivere la spiritualità mariana, il Rosario delle Donne favorisce il rafforzamento dei legami di fraternità e accoglienza tra le partecipanti, promuovendo un ambiente di ascolto, condivisione e crescita nella fede. È un invito affinché ogni donna scopra, alla luce del Vangelo, la propria vocazione e missione nella Chiesa e nella società.",
+        "Gli incontri si svolgono ogni sabato, alle 18h, nella Parrocchia Nostra Signora del Bonsucesso. Tutte le donne sono cordialmente invitate a partecipare a questo momento di preghiera e devozione, unendo le proprie voci in lode a Dio e affidando la propria vita e le proprie intenzioni alla potente intercessione della Vergine Maria.",
+        "\"Beata colei che ha creduto nell'adempimento delle parole del Signore. (Lc 1,45)\""
+      ]
+    },
+    "grupo-oracao": {
+      "title": "Gruppo di Preghiera",
+      "subtitle": "Ogni giovedì alle 20h nella Cappella di San Pietro",
+      "category": "Preghiera",
+      "summary": "Ogni giovedì alle 20h nella Cappella di San Pietro",
+      "content": [
+        "Il Gruppo di Preghiera è un momento di incontro fraterno e rinnovamento spirituale, in cui i fedeli si riuniscono per lodare e benedire Dio, meditare la Sua Parola e rafforzare la vita cristiana attraverso la preghiera comunitaria. Illuminati dall'azione dello Spirito Santo, i partecipanti sono invitati ad approfondire la propria intimità con Cristo, crescere nella fede e testimoniare il Vangelo nella vita quotidiana.",
+        "Gli incontri offrono un ambiente di accoglienza, ascolto e comunione, favorendo la vita spirituale, la condivisione delle esperienze di fede e l'intercessione per le necessità della Chiesa, delle famiglie e di tutta la comunità. È uno spazio dove ognuno può rinnovare la propria speranza, rafforzare la propria fiducia in Dio e sperimentare la gioia di camminare in comunione con i fratelli.",
+        "Il Gruppo di Preghiera cerca di incoraggiare una vita di preghiera costante, nutrita dalla Sacra Scrittura, dai sacramenti e dalla partecipazione attiva nella comunità ecclesiale, contribuendo alla formazione di discepoli missionari impegnati nella missione evangelizzatrice della Chiesa.",
+        "Gli incontri si svolgono ogni giovedì, alle 20h, nella Cappella di San Pietro, situata nella Comunità San Pietro, all'Uscita 7 della Linha Amarela. Tutta la comunità è cordialmente invitata a partecipare a questo momento di lode, preghiera e fraternità, aprendo il cuore all'azione dello Spirito Santo e permettendo a Dio di guidare ogni passo del cammino cristiano.",
+        "\"Dove due o tre sono riuniti nel mio nome, io sono in mezzo a loro. (Mt 18,20)\""
+      ]
+    }
+  },
+  "team": {
+    "1": {
+      "role": "Parroco",
+      "bio": "Nato a Belo Horizonte, MG, nel 1972, Padre Marcos Antônio Silva è stato ordinato sacerdote nel 1999 dalla Diocesi di Belo Horizonte. Ha conseguito la laurea in Teologia presso la PUC Minas e una specializzazione in Pastorale Familiare presso la Pontificia Università Salesiana di Roma.\nPrima di assumere la parrocchia, ha svolto il ruolo di vicario in due comunità della sua diocesi d'origine e di direttore spirituale del seminario diocesano per cinque anni. È arrivato alla Parrocchia Nostra Signora del Bonsucesso nel 2018, dove da allora esercita con dedizione e gioia il ministero pastorale.\nÈ noto per le sue omelie accoglienti e per la sua attenzione speciale ai giovani e alle famiglie in situazione di vulnerabilità. Coordina anche la Pastorale della Sobrietà ed è consulente del Rinnovamento Carismatico Cattolico nella regione."
+    },
+    "2": {
+      "role": "Sacerdote Collaboratore",
+      "bio": ""
+    },
+    "3": {
+      "role": "Diacono Permanente",
+      "bio": ""
+    },
+    "4": {
+      "role": "Segretaria Parrocchiale",
+      "bio": ""
+    },
+    "5": {
+      "role": "Pascom",
+      "bio": ""
+    },
+    "6": {
+      "role": "Coordinatrice della Liturgia",
+      "bio": "Responsabile della preparazione delle celebrazioni liturgiche, Ana Paula coordina il coro, i ministri dell'Eucaristia e i lettori della parrocchia da 8 anni."
+    }
+  },
+  "teamPage": {
+    "hero": {
+      "kicker": "Chi siamo",
+      "title": "Il Nostro Team"
+    },
+    "priestSection": {
+      "title": "Parroco",
+      "subtitle": "Il sacerdote responsabile della nostra comunità"
+    },
+    "collaboratorsSection": {
+      "title": "Collaboratori",
+      "subtitle": "Le persone che fanno vivere la parrocchia"
+    },
+    "cta": {
+      "kicker": "Unisciti a noi",
+      "title": "Vuoi servire nella parrocchia?",
+      "description": "La nostra comunità è guidata da volontari appassionati della fede. Se ti senti chiamato a servire, contattaci e scopri come collaborare.",
+      "button": "Contattaci"
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "kicker": "Resta informato",
+      "title": "Notizie ed Eventi"
+    },
+    "categories": {
+      "all": "Tutti",
+      "Evento": "Evento",
+      "Catequese": "Catechismo",
+      "Retiro": "Ritiro",
+      "Circulo": "Circoli",
+      "Confissoes": "Confessioni",
+      "Oracao": "Preghiera",
+      "Dizimo": "Decima"
+    },
+    "allPublications": "Tutte le Pubblicazioni",
+    "resultsCount_one": "{{count}} pubblicazione trovata",
+    "resultsCount_other": "{{count}} pubblicazioni trovate",
+    "empty": "Nessuna pubblicazione in questa categoria."
+  },
+  "newsDetailPage": {
+    "back": "Torna alle Notizie",
+    "otherPublications": "Altre Pubblicazioni"
+  },
+  "historyPage": {
+    "hero": {
+      "kicker": "Il Nostro Percorso",
+      "title": "Storia della Parrocchia"
+    },
+    "intro": "Una delle chiese più belle della zona di Leopoldina, edificata in Rua General Galiene, nel sobborgo di Bonsucesso. La Chiesa Madre della Parrocchia di Nostra Signora del Bonsucesso è costruita in un bello stile che unisce l'antico al nuovo, attraverso tratti gotici intrecciati con una struttura moderna. La Chiesa presenta una facciata singolare, formata da un frontale costituito da una serie di colonne giustapposte e decorate ad altezze crescenti.",
+    "gallery": {
+      "title": "Galleria Storica",
+      "subtitle": "Immagini che raccontano la storia della nostra comunità",
+      "editHint": "Aggiungi le tue foto storiche modificando il file"
+    },
+    "noImage": "Inserisci un'immagine qui"
+  },
+  "homePage": {
+    "hero": {
+      "titleLine1": "Parrocchia Nostra Signora",
+      "titleLine2": "del Bonsucesso",
+      "description": "Una comunità di fede viva, che accoglie tutti nella grazia di Dio. Venite a celebrare, pregare e servire con noi. Tutti sono benvenuti!",
+      "ctaHistory": "Scopri la Nostra Storia",
+      "ctaEvents": "Prossimi Eventi"
+    },
+    "massTimes": {
+      "title": "Orari delle Messe",
+      "subtitle": "Venite a celebrare l'Eucaristia con noi",
+      "days": {
+        "weekdays": [
+          "Lunedì",
+          "Mercoledì",
+          "Giovedì",
+          "Venerdì"
+        ],
+        "saturday": "Sabato",
+        "sunday": "Domenica"
+      }
+    },
+    "welcome": {
+      "kicker": "Benvenuti",
+      "title": "Una casa aperta a tutti",
+      "paragraph1": "La Parrocchia Nostra Signora del Bonsucesso è una comunità ecclesiale che, da oltre sette decenni, accoglie fedeli di ogni età, origine e storia di vita. Qui il Vangelo è vissuto quotidianamente, nella condivisione e nel servizio al prossimo.",
+      "paragraph2": "Che tu sia qualcuno che cerca di avvicinarsi alla fede, di riprendere un cammino spirituale o semplicemente di trovare una comunità accogliente — la nostra porta è sempre aperta. Come disse Gesù:",
+      "quote": "\"Venite a me.\"",
+      "cta": "Conosci il Nostro Team"
+    },
+    "highlights": {
+      "faith": {
+        "title": "Fede e Tradizione",
+        "desc": "Oltre 70 anni di storia, celebrando i sacramenti e trasmettendo la fede cattolica."
+      },
+      "community": {
+        "title": "Comunità Attiva",
+        "desc": "Pastorali, gruppi di preghiera e movimenti per tutte le età e vocazioni."
+      },
+      "dailyMass": {
+        "title": "Messe Quotidiane",
+        "desc": "Celebrazioni eucaristiche ogni giorno per nutrire la vita spirituale della comunità."
+      }
+    },
+    "news": {
+      "kicker": "Resta aggiornato",
+      "title": "Ultime Notizie",
+      "viewAll": "Vedi tutte"
+    },
+    "cta": {
+      "quote": "\"Amatevi gli uni gli altri\"",
+      "title": "Fai parte della nostra comunità",
+      "description": "Scopri i gruppi, i movimenti e le pastorali che trasformano la vita e rafforzano la fede.",
+      "button": "Vedi i Prossimi Eventi"
+    }
+  }
+}
