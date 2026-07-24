@@ -122,12 +122,12 @@ export default function HomePage() {
           />
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             {massTimesData.map((m) => {
-              const label = t<string | string[]>(
+              const label = t(
                 `homePage.massTimes.days.${m.key}`,
                 {
-                  returnObjects: true,
+                  returnObjects: true
                 },
-              );
+              ) as string | string[];
               const isWeekdays = Array.isArray(label);
 
               return (
